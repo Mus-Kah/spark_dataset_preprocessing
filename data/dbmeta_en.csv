@@ -1,0 +1,1082 @@
+"Database name","Alternative name","Integbio Database Catalog ID",DOI,Creator,"Database classification","Database classification (Free style)",Organism,"Organism (Free style)","Database description","Features and manner of utilization of database","Background and funding","Background and funding (Free style)",Reference(s),"Database maintenance site","URL of the original website","Operation start date","Last update date","URL of the portal site","Whole data download","Referenced database","Entry list","Query search","Web services","URL of Web services","Need for user registration"
+AcEST,"Adiantum capillus-veneris EST","nbdc00839
+",10.18908/lsdba.nbdc00839-000,"""Hiromi Kanegae"",""Tokyo Metropolitan University"",,,,,0
+""Eri Kibukawa"",""Science & Technology Systems Inc."",,,,,0
+""Takeshi Kanegae"",""Tokyo Metropolitan University)"",,,,,1
+","""Nucleotide Sequence Databases""
+""Plant databases - Other plants""
+",,"""Adiantum capillus-veneris"",13818
+",,"This is a database of EST sequences of Adiantum capillus-veneris determined by Tokyo Metropolitan University, and the results of the blastx search between these sequences and UniProtKB/Swiss-Prot and TrEMBL databases. Although various plant genomes have been analyzed, the research concerning fern plants has not progressed among land plants (including seed plants, fern and moss). Considering Adiantum capillus-veneris, which has been used for photomorphogenesis research, as a model fern plant, EST sequence analysis of Adiantum was performed.","AcEST is a database comprising about 30,000 items of EST sequence data of Adiantum capillus-veneris and additional secondary information. The database can be used to look for new genes in fern plants, to elucidate gene evolution and to collect gene information specific to fern plants.","""Research funded by the basic research budget of Tokyo Metropolitan University"",,
+",,"""Analysis of expressed sequence tags in prothallia of Adiantum capillus-veneris."",""Yamauchi, D., Sutoh, K., Kanegae, H., Horiguchi, T., Matsuoka, K., Fukuda, H., Wada, M."",""J. Plant Res. 118 (3): 223-227."",15940394,200902214433760982
+","Plant Environmental Responses Laboratory, Department of Biological Sciences, Tokyo Metropolitan University Graduate School of Science and Engineering","http://togodb.biosciencedbc.jp/togodb/view/acest/
+",2009-06-12,2009-11,,http://togodb.biosciencedbc.jp/togodb/view/acest/,,1,1,1,,
+AOE,"All Of gene Expression","nbdc00467
+",10.18908/lsdba.nbdc00467-000,"""Hidemasa Bono"",""Database Center for Life Science"",200901083788745339,bonohu,0000-0003-4413-0651,201401171089187777,1
+","""Microarray Data and other Gene Expression Databases""
+",,,,"An index of public gene expression database.","Direct data access from the histogram, and make the table with selecte entries.
+Updated data ranking by organisms and by methods enhances searchability of archived data.
+Dynamic histogram for selected organisms and methods can be produced only by click operation.","""MEXT Integrated Database Project"",,0
+""Life Science Database Integration Project"",201304069785935332,0
+""Development of fundamental technologies related to integration of databases"",201304036502222259,0
+",,"""All of gene expression (AOE): integrated index for public gene expression databases"",""Hidemasa Bono"",""bioRxiv https://doi.org/10.1101/626754"",0,
+","Database Center for Life Science","https://aoe.dbcls.jp/en
+",2014-10-01,2019-04-12,https://dbcls.rois.ac.jp/index-en.html,,"ArrayExpress, Gene Expression Omnibus(GEO), Genomic Expression Archive",1,1,1,https://github.com/dbcls/AOE/blob/master/API_documentation.md,
+"Arabidopsis Phenome Database",,"NBDC01509
+",10.18908/lsdba.nbdc01509-000,"""Hiroshi Masuya"",""RIKEN BioResource Center"",,,,200901100317799465,0
+""Koji Doi"",""Institute of Crop Science, NARO"",,,,200901100377855305,0
+","""Plant databases - Arabidopsis thaliana""
+",,"""Arabidopsis thaliana"",3702
+",,"The Arabidopsis thaliana phenome is the whole set of characteristics expressed in response to genomic, environmental and experimental factors of the most major experimental plant. The huge variety of published data have been accumulated, which is an indispensable resource to improve plant omics studies both on basic and applied research fields. It is also important to link information of bioresources such as mutant lines to the phenome to improve experimental research. Inconstancy among them however has inhibited their effective application. We developed the new Arabidopsis Phenome Database integrating two novel databases. One is the “RIKEN Phenome Integration of Arabidopsis Mutants”, that allows researchers to search mutants developed in RIKEN according to their interests in specified phenotypes to find useful materials for their experimental research. The other, the “Database of Curated Plant Phenome” focusing on the Arabidopsis phenome collected by human curation of published papers, is designed to realize easily both phenotype-to-genome and genome-to-phenotype association studies.",,,"Database Integration Coordination Program ""Development of the integrated database of phenome"" (2014/4-2017/3)",,"RIKEN BioResource Center","http://jphenome.info/?page_id=95
+",,2016-12,http://metadb.riken.jp/metadb/front,http://metadb.riken.jp/metadb/db/SciNetS_ria143i,"Ds tagging line, Ac activation tagging line, Fox-hunting line",1,1,,,
+ASTRA,"Alternative Splicing and Transcription Archives (ASTRA)","nbdc00371
+",10.18908/lsdba.nbdc00371-000,"""Hideki Nagasaki"",""National Institute of Advanced Industrial Science and Technology, AIST. Current affiliation: Kazusa DNA Research Institute"",201301021943203731,nagasaki,,201201100231289206,0
+""Osamu Gotoh"",""National Institute of Advanced Industrial Science and Technology, AIST"",200901010240453294,read0081671,,200901100337614682,0
+""Masanori Arita"",""National Institute of Advanced Industrial Science and Technology, AIST. Current affiliation: National Institute of Genetics"",200901068111061442,arita,,200901100359062330,0
+","""Nucleotide Sequence Databases - Gene structure, introns and exons, splice sites""
+",,"""Homo sapiens"",9606
+""Mus musculus"",10090
+""Drosophila melanogaster"",7227
+""Caenorhabditis elegans"",6239
+""Arabidopsis thaliana"",3702
+""Oryza sativa"",4530
+",,"The database represents classified patterns of alternative splicing (AS) and alternative transcriptional initiation (ATI) in six eukaryotic genomes.","This database enables to search and represent alternative splicing/transcriptional initiation genes and their patterns (ex: cassette) based on mapping results between full-length cDNA and genomic sequences. Furthermore the database output translated sequences of their isoforms.",,,"""Species-specific variation of alternative splicing and transcriptional initiation in six eukaryotes."",""Nagasaki H, Arita M, Nishizawa T, Suwa M, Gotoh O."",""Gene. 2005 Dec 30;364:53-62."",16219431,201302256390587758
+""Automated classification of alternative splicing and transcriptional initiation and construction of visual database of classified patterns."",""Nagasaki H, Arita M, Nishizawa T, Suwa M, Gotoh O."",""Bioinformatics. 2006 May 15;22(10):1211-6."",16500940,201002289269382085
+","National Institute of Advanced Industrial Science and Technology, AIST.","
+",2005,2006,,,,1,1,,,
+"AT Atlas","Advanced Technologies Atlas","nbdc01162
+",10.18908/lsdba.nbdc01162-000,"""Sei Miyamoto"",""Fujitsu Co., Ltd."",,,,,0
+""Yasumasa Shigemoto"",""Fujitsu Co., Ltd."",,,,,0
+""Hisashi Mizutani"",""National Institute of Genetics"",,,,,0
+""Takao Iwayanagi"",""National Institute of Genetics"",,,,,0
+""Hideaki Sugawara"",""National Institute of Genetics"",,,,,1
+","""Other Molecular Biology Databases""
+","""Experimental Methodology""
+",,"Homo sapiens, mouse and Arabidopsis thaliana et al. as organisms of synthesized protein.
+E. coli, wheat, human, yeast et al. as organisms using protein biosynthesis.","AT Atlas will make you familiar with the accomplishments by research groups of ""Protein Production"", ""Structural Analysis"" and ""Chemical Regulation"" in the Targeted Proteins Research Program. AT Atlas is composed of graphical abstract (flow chart) , information in text including actual application of the method and link to PRotein Experimental Information Management System (PREIMS). You will be able to find experimental methods used to elucidate the structure and/or functions of proteins that you are interested in. Further, you will be able to reproduce the experimental process to study corresponding entries of PREIMS. (Most of the graphical abstracts have been drawn by use of Cell Illustrator that is a pathway-drawing software developed by Prof. Satoru Miyano and his colleagues at the U. Tokyo)","The database provides techniques in protein production (hardly-soluble proteins, membrane proteins, protein complexes etc.), structural analysis of proteins and chemical library for protein regulation technology, which were worked in Targeted Proteins Research Program (TPRP). It is a practical database including graphical abstracts and links to detailed protocols in PREIMS (Protein Experimental Information Management System).","""The Targeted Proteins Research Program (2007-2011) promoted by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan.
+Project ID: IPC1 Creation and management of information platform in Targeted Proteins Research Program
+http://www.tanpaku.org/e_pf.php"",,34
+",,,"Platform for Drug Discovery, Informatics, and Structural Life Science
+Research Organization of Information and Systems
+National Institute of Genetics","http://www.tanpaku.org/atatlas/index_e.html
+",2011-08,2012-03-31,http://www.tanpaku.org/e_index.php,,"Protein Experimental Information Management System (PREIMS)",1,1,,,
+BodyParts3D,"3D structure database for anatomical concepts","nbdc00837
+",10.18908/lsdba.nbdc00837-000,"""Kousaku Okubo"",""The Database Center for Life Science"",,,,,1
+",,"Organ
+","""Homo sapiens"",9606
+",,"Dictionary-type database for anatomy in which anatomical concepts are represented by 3D structure data that specify corresponding segments of a three-dimensional whole-body model for an adult human male","The biggest feature is that a three-dimensional whole-body model for an adult human male is available for free. The database is not only useful as an electronic atlas to three-dimensionally confirm the position and shape of human organ, but also useful in reusing the available data as the input data for human-body simulation and data mapping.
+A tool called ""Anatomogram"" is also made available to the public (http://lifesciencedb.jp/bp3d/) to readily generate an anatomical image of human body by selecting body parts from BodyParts3D and setting desired viewpoint, zoom, color and opacity.","""MEXT Integrated Database Project"",201410043352900536,25
+",,"""BodyParts3D: 3D structure database for anatomical concepts."",""Mitsuhashi N, Fujieda K, Tamura T, Kawamoto S, Takagi T, Okubo K."",""Nucleic Acids Res. 2008 Oct 3."",18835852,201302297372077317
+","The Database Center for Life Science","http://lifesciencedb.jp/bp3d/
+",2007-10,2013-05,http://lifesciencedb.jp/lsdb.cgi?lng=en,http://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html,"Foundational Model of Anatomy",1,1,1,http://lifesciencedb.jp/bp3d/info_en/webapi/,
+"Budding yeast cDNA sequencing project",,"nbdc00838
+",10.18908/lsdba.nbdc00838-000,"""Fumihito Miura"",""Department of Computational Biology, Graduate School of Frontier Sciences, The University of Tokyo(when creating)"",,,,,0
+""Takashi Ito"",""Department of Computational Biology, Graduate School of Frontier Sciences, The University of Tokyo(when creating)"",,,,,1
+","""Genomics Databases (non-vertebrate) - Fungal genome databases""
+",,"""Saccharomyces cerevisiae"",4932
+",,"5'-end sequences of full-length cDNA clones generated from the budding yeast full-length cDNA library by the vector-capping method and the sequence quality score generated by the Phred software.","Since the vector-capping method allows to prepare cDNA possessing a genuine 5'-end, mapping the 5'-end sequence to the genome will lead to accurate identification of the transcription start site.","""KAKENHI (Grant-in-Aid for Scientific Research) on Priority Areas """"Systems Genomics"""" from the Ministry of Education, Culture, Sports, Science and Technology of Japan"",,
+""Institute for Bioinformatics Research and Development, Japan Science and Technology Agency"",200904072106278644,24
+",,"""A large-scale full-length cDNA analysis to explore the budding yeast transcriptome."",""Miura F, Kawaguchi N, Sese J, Toyoda A, Hattori M, Morishita S, Ito T."",""Proc Natl Acad Sci U S A. 2006 Nov 21;103(47):17846-51."",17101987,200902252672155526
+","Department of Biophysics and Biochemistry, Graduate School of Science, the University of Tokyo","http://itolab.med.kyushu-u.ac.jp/GCap/
+",2006-11-14,2006-11-14,,http://itolab.med.kyushu-u.ac.jp/GCap/download.html,,,,,,
+ChemTHEATRE,,"nbdc01632
+",10.18908/lsdba.nbdc01632-000.V001,"""Kei Nakayama"",""Center for Marine Environmental Studies, Ehime University"",200901047447388990,read0144296,0000-0002-0247-757X,200901100575204999,1
+",,"""Monitoring of chemical substances""
+",,,"Existing data on the environmental concentration of chemical substances has been digitized as academic papers or public institution reports. But most of them are stored as text or excel files. They are never easy to use for modeling and risk analysis. The prediction of global chemical contamination is much delayed compared with the climate change research. It is probably due to the fact that monitoring data as an input of the prediction model and verification material is not prepared. It is a great loss that valuable research results obtained by investing a large amount of research expenses are not fully utilized. In order to make effective use of these valuable information in the future, I think that building a highly versatile database is an essential task. For that reason, we would like to create a database on concentration information on chemical substances in the environment and create a platform (ChemTHEATRE) that stores and view monitoring data on all chemical substances. Utilizing this platform makes it possible to ensure traceability of chemical substances, facilitate prediction of behavior and fate in the environment, and to cooperate with external databases on chemical substance emissions and toxicity information, etc. It ensure ecological risk assessments of highly seasoned chemical substances with high precision and transparency. Also, with advanced visualization technology of information, we can expect the return of monitoring research to society, especially contribution to environmental education and open science.",,,,,"Center for Marine Environmental Studies, Ehime University","https://chem-theatre.com/
+",2016-05-31,2018-12-17,,,PubChem,1,1,,,
+ChIP-Atlas,,"nbdc01558
+",10.18908/lsdba.nbdc01558-000.V016,"""Shinya Oki"",""Kyushu University"",201501040753326194,okishinya,,200901100345522495,0
+""Tazro Ohta"",""Database Center for Life Science"",,,0000-0003-3777-5945,,0
+","""Human and other Vertebrate Genomes - Human genome databases, maps and viewers""
+""Nucleotide Sequence Databases - Transcriptional regulator sites and transcription factors""
+""Genomics Databases (non-vertebrate) - Genome annotation terms, ontologies and nomenclature""
+",,"""Homo sapiens"",9606
+""Mus musculus"",10090
+""Drosophila melanogaster"",7227
+""Caenorhabditis elegans"",6239
+""Saccharomyces cerevisiae"",4932
+""Rattus norvegicus"",10116
+",,"ChIP-Atlas is the database and its web interface to provide the result of analysis processed from the entire ChIP-Seq data archived in Sequence Read Archive. We have curated metadata described by original data submitter to enable further data analysis. See details here: https://github.com/inutano/chip-atlas/wiki","Users can browse all peaks from published ChIP-Seq data, and the result of target gene analysis and Colocalization analysis. Users also can perform enrichment analysis by querying user data.",,,,"Department of Developmental Biology, Graduate School of Medical Sciences, Kyushu University","http://chip-atlas.org/
+",2015-12-01,2019-03-25,,https://github.com/inutano/chip-atlas/wiki#downloads_doc,,1,1,,,
+ClEST,"Cimex lectularius EST","nbdc01137
+",10.18908/lsdba.nbdc01137-000,"""Minoru Moriyama"",""National Institute of Advanced Industrial Science and Technology"",,,,,1
+","""Nucleotide Sequence Databases""
+",,"""Cimex lectularius"",79782
+",,"Expressed sequence tags (EST) database of unique organs and whole bodies of the bedbug, Cimex lectularius","The bedbug Cimex lectularius is a blood-feeding exoparasite of humans and other warm-blooded animals. They have unique biological traits including the obligate nutritional mutualism with a Wolbachia endosymbiont, and the peculiar mating habit called traumatic insemination. The novel insect organs, the bacteriome for endosymbiosis and the spermalege for traumatic insemination, have evolved in the bedbug lineage. This database includes transcriptome of these unique organs, and can offer the basic information for evolutionary biology and medical and hygienic applications.","""The Program for Promotion of Basic and Applied Research for Innovations in Bio-oriented Industry (BRAIN)."",,
+",,"""Comparative transcriptomics of the bacteriome and spermalege of the bedbug Cimex lectularius (Hemiptera: Cimicidae)"",""Minoru Moriyama, Ryuichi Koga, Takahiro Hosokawa, Naruo Nikoh, Ryo Futahashi, Takema Fukatsu"",""Appl Entomol Zool. 2012 Aug; 47(3):233-243."",,201202212690555357
+","Symbiotic Evolution and Biological Functions Research Group, Bioproduction Research Institute, National Institute of Advanced Industrial Science and Technology (AIST)",,,,http://staff.aist.go.jp/t-fukatsu/BRAINHome.html,,,,,,,
+ConfC,"Database of conformation changes in protein structures","nbdc00400
+",10.18908/lsdba.nbdc00400-000,"""Tamotsu Noguchi"",""Meiji Pharmaceutical University"",200901022790957522,read0205922,,201550000299995880,0
+","""Structure Databases - Protein structure""
+""Structure Databases - Small molecules""
+""Structure Databases - Nucleic acid structure""
+",,,,"This database extracts this dynamic information from the protein structure being obtained now and is consist of three kinds of sub-database, that is, 1) evolutional structure change, 2) conformation changes by some binding and 3) structural flexibility, which were individually classified respectively.","This database will be used to 1) study protein structure stability, functional expression based on sequence changes, 2) study mechanism of gene disease based on protein structure, and 3) develop prediction methods for the protein function, disorder region and domain linker, and the method of drug design by considering the protein the movement.",,"This database project was supported by the Grant-in-Aid for Publication Scientific Research Results from Japan Society for the Promotion of Science(JSPS) in 2004",,"National Institute of Industrial Science and Technology (AIST), Tokyo Waterfront
+*The original website was terminated.","http://mbs.cbrc.jp/ConfC/
+",2005-05-01,,,,,,,,,
+"CREATE portal",,"nbdc00403
+",10.18908/lsdba.nbdc00403-000,"""Hisashi Koga"",""Kazusa DNA Research Institute (KDRI)"",200901092683460338,read0132746,,200901100479841929,0
+","""Proteomics Resources""
+",,"""Mus musculus"",10090
+",,"KDRI has cloned ~2000 mouse homologs of human KIAA genes and prepared ~2000 rabbit polyclonal antibodies against respective mouse KIAA (mKIAA) proteins. In the CREATE portal, you can see the results of experiments exploring the expression levels of mRNA and protein for 274 mKIAA genes in the InGaP database. You can also see the results of protein-protein interaction of 50 mKIAA proteins of which interaction interactions were identified by mass spectrometry analysis following immuno-precipitation with anti-mKIAA antibodies.","You can see the results of tissue-specific expression of mKIAA proteins. These data are useful to find out the sensitivity and specificity of the anti-mKIAA antibodies, because parts of anti-mKIAA antibodies prepared in the project can be obtained from the ProteinExpress. In the InCeP database, you can see protein-protein interaction data of mKIAA proteins, useful to predict their functions.",,"CREATE Program (Collaboration of Regional Entities for the Advancement of Techno- logical Excellence)  (2001-2006)","""A comprehensive approach for establishment of the platform to analyze functions of KIAA proteins II: public release of inaugural version of InGaP database containing gene/protein expression profiles for 127 mouse KIAA genes/proteins"",""Koga H, Yuasa S, Nagase T, Shimada K, Nagano M, Imai K, Ohara R, Nakajima D, Murakami M, Kawai M, Miki F, Magae J, Inamoto S, Okazaki N, Ohara O."",""DNA Res. 2004 Aug 31;11(4):293-304."",15500254,200902275729419053
+""InCeP: intracellular pathway based on mKIAA protein-protein interactions"",""Murakami M, Shimada K, Kawai M, Koga H."",""DNA Res. 2005;12(5):379-87."",16769695,200902204953292293
+",,,,,,,,,,,,
+D-HaploDB,"Definitive Haplotype Database","nbdc00036
+",10.18908/lsdba.nbdc00036-000,"""Kenshi Hayashi"",""Research Center for Genetic Information, Medical Institute of Bioregulation, Kyushu University"",,,,,1
+""Tomoko Tahira"",""Research Center for Genetic Information, Medical Institute of Bioregulation, Kyushu University"",,,,,0
+","""Human Genes and Diseases - General polymorphism databases""
+",,"""Homo sapiens"",9606
+",,"This database presents true haplotypes and LD structures of Japanese genome, determined using DNA samples obtained from complete hydatidiform moles.","The genome of complete hydatidiform mole is derived from a single sperm. Therefore, the haplotypes described in DHaploDB are true haplotypes. This is in contrast to the haplotypes of Asians described by the HapMap Project, which are haplotypes deduced from genotypes of diploid materials using computational method that yields haplotypes with error at a certain level.
+
+G-browse function is implemented at the original website (see below), where updated version (D4) is available.","""""""Research Revolution 2002"""" (RR2002) initiative from the Ministry of Education, Culture, Sports, Science and Technology, Japan."",,67
+""A Grant-in-Aid for Scientific Research on Priority Areas “Applied Genomics"""" from the Ministry of Education, Culture, Sports, Science and Technology, Japan."",201410076767231384,
+",,"""Genome-wide definitive haplotypes determined using a collection of complete hydatidiform moles."",""Kukita Y, Miyatake K, Stokowski R, Hinds D, Higasa K, Wake N, Hirakawa T, Kato H, Matsuda T, Pant K, Cox D, Tahira T, Hayashi K."",""Genome Res. 2005 Nov;15(11):1511-8."",16251461,201302245829785100
+""D-HaploDB: a database of definitive haplotypes determined by genotyping complete hydatidiform mole samples."",""Higasa K, Miyatake K, Kukita Y, Tahira T, Hayashi K."",""Nucleic Acids Res. 2007 Jan;35(Database issue):D685-9."",17166862,201302229677297311
+""Evaluation of haplotype inference using definitive haplotype data obtained from complete hydatidiform moles, and its significance for the analyses of positively selected regions."",""Higasa K, Kukita Y, Kato K, Wake N, Tahira T, Hayashi K."",""PLoS Genetics, 2009 May;5(5):e1000468."",19424418,201302291339498520
+""A definitive haplotype map as determined by genotyping duplicated haploid genomes finds a predominant haplotype preference at copy-number variation events."",""Kukita Y, Yahara K, Tahira T, Higasa K, Sonoda M, Yamamoto K, Kato K, Wake N, Hayashi K."",""Am. J. Hum. Genet. 2010 Jun;86(6):918-28."",20537301,201002292632978646
+","Division of Genome Analysis,Research Center for Genetic Information,　Medical Institute of Bioregulation, Kyushu University
+* The original website was terminated.","http://orca.gen.kyushu-u.ac.jp/
+",2005-07-20,2011-06-23,http://www.gen.kyushu-u.ac.jp/~genome/database.html,http://orca.gen.kyushu-u.ac.jp/download.html,,,1,,,
+DB-SPIRE,,"nbdc00411
+",10.18908/lsdba.nbdc00411-000,"""Tamotsu Noguchi"",""Meiji Pharmaceutical University"",200901022790957522,read0205922,,201550000299995880,0
+","""Structure Databases - Protein structure""
+",,,,"This database has the positional information in the amino acid motif structure. The information is identified by experiments or sequence analysis (homology search and multiple alignment). We use PROSITE and BLOCKS as amino acid motif databases. PROSITE has motives from experiments, and BLOCKS has motives from both experiments and sequence analysis. We use PDB as the protein structure database and decide the motif position from SEQRES and ATOM sequences. The reason we need SEQRES and ATOM sequences is because those are not matched in some PDB entries.","This database is aimed to make researchers in bioinformatics, biochemistry or structural biology understand quickly protein function structures.
+You can use this database together with “Database of conformation changes in protein structures” (ConfC) to get the picture of protein structure-function relationship dynamically and predict function sites.",,,,"National Institute of Industrial Science and Technology (AIST), Tokyo Waterfront
+*The original website was terminated.","http://mbs.cbrc.jp/DB-SPIRE
+",2005-04-01,,,,"PROSITE, BLOCKS, PDB",,,,,
+dbQSNP,"Database of SNPs in human genome with allele frequency information","nbdc00042
+",10.18908/lsdba.nbdc00042-000,"""Kenshi Hayashi"",""Research Center for Genetic Information, Medical Institute of Bioregulation, Kyushu University (when creating)"",200901095483023110,read0043291,,200901100543281134,1
+""Tomoko Tahira"",""Research Center for Genetic Information, Medical Institute of Bioregulation, Kyushu University (when creating)"",200901050296431120,read0043292,,200901100472372281,0
+""Koichiro Higasa"",""Research Center for Genetic Information, Medical Institute of Bioregulation, Kyushu University (when creating)"",200901083988185648,read0106390,,200901100532168360,0
+","""Human Genes and Diseases - General polymorphism databases""
+",,"""Homo sapiens"",9606
+",,"SNP discovery and determination of their allele frequency in various sample groups using pooled DNA-quantitative fluorescent SSCP analysis","Most of SNPs described here were collected around the transcription start sites of many genes, and their allele frequencies were precisely determined by quantitative fluorescent SSCP analysis of pooled DNA constructed using various populations. These data is useful for the determination of genetic background of various quantitative variation of phenotypes of populations.","""""""Research Revolution 2002"""" (RR2002) initiative from the Ministry of Education, Culture, Sports, Science and Technology, Japan."",,67
+",,"""dbQSNP: a database of SNPs in human promoter regions with allele frequency information determined by single-strand conformation"",""Tahira T, Baba S, Higasa K, Kukita Y, Suzuki Y, Sugano S, Hayashi K"",""Human Mutation 2005 Aug. 26(2) 69-77"",15977179,201002297369680698
+""Precise estimation of allele frequencies of single-nucleotide polymorphisms by a quantitative SSCP analysis of pooled DNA."",""Sasaki T, Tahira T, Suzuki A, Higasa K, Kukita Y, Baba S, Hayashi K."",""Am J Hum Genet. 2001 Jan;68(1):214-8."",11083945,201302128039807034
+""Single-stranded conformational polymorphism analysis using automated capillary array electrophoresis apparatuses."",""Baba S, Kukita Y, Higasa K, Tahira T, Hayashi K."",""Biotechniques. 2003 Apr;34(4):746-50."",12703299,200902228111090460
+""Software for machine-independent quantitative interpretation of SSCP in capillary array electrophoresis (QUISCA)"",""Higasa K, Kukita Y, Baba S, Hayashi K."",""Biotechniques. 2002 Dec;33(6):1342-8."",12503322,200902117784892251
+""Association of polymorphisms in complement component C3 gene with susceptibility to systemic lupus erythematosus."",""Miyagawa H, Yamai M, Sakaguchi D, Kiyohara C, Tsukamoto H, Kimoto Y, Nakamura T, Lee JH, Tsai CY, Chiang BL, Shimoda T, Harada M, Tahira T, Hayashi K, Horiuchi T."",""Rheumatology (Oxford). 2008 Feb;47(2):158-64"",18174230,201102219065884269
+""Estimation of SNP allele frequencies by SSCP analysis of pooled DNA"",""Tahira T, Kukita Y, Higasa K, Okazaki Y, Yoshinaga A, Hayashi K"",""Methods in Molecular Biology 578:193-207 (2009)"",19768595,
+""Optimization of capillary array electrophoresis single-strand conformation polymorphism analysis for routine molecular diagnostics"",""Jespersgaard C, Larsen LA, Baba S, Kukita Y, Tahira T, Christiansen M, Vuust J, Hayashi K, Andersen PS"",""Electrophoresis 27: 3816-3822 (2006)"",16941449,200902255425395254
+""Multicolor post-PCR labeling of DNA fragments with fluorescent dideoxynucleotides."",""Kukita Y, Hayashi K"",""BioTechniques 33: 502-506 (2002)"",12238759,
+""Hemi-stranded SSCP analysis of single-nucleotide polymorphisms in short sequence-tagged sites."",""Kukita Y, Manago S, Baba S, Hayashi K"",""BioTechniques 33:1118-1121 (2002)"",12449392,
+""SSCP analysis of point mutations by multicolor capillary electrophoresis."",""Hayashi K, Wenz HM, Inazuka M, Tahira T, Sasaki T, Atha DH"",""Methods in Molecular Biology 163: 109-126 (2001)"",11242937,
+""Recent enhancements in SSCP."",""Hayashi K"",""Genetic Analysis: Biomolecular Engineering 14: 193-196 (1999)"",10084114,
+""SSCP analysis of long DNA fragments in low pH gel"",""Kukita Y, Tahira T, Sommer SS, Hayashi K"",""Human Mutation 10: 400-407 (1997)"",9375857,201002139486511142
+""One-tube post-PCR fluorescent labeling of DNA fragments"",""Inazuka M, Tahira T, Hayashi K"",""Genome Research 6: 551-557 (1996)"",8828044,200902189119838174
+""PCR-SSCP: A method for detection of mutations"",""Hayashi K"",""Genetic Analsysis: Techniques and Applications 9: 73-79 (1992)"",1476794,201302012182084479
+""PCR-SSCP: A simple and sensitive method for detection of mutations in the genomic DNA"",""Hayashi, K"",""PCR Methods and Applications 1: 34-38 (1991)"",1842918,
+""Rapid and sensitive detection of point mutations and DNA polymorphisms using the polymerase chain reaction"",""Orita M, Suzuki Y, Sekiya T, Hayashi K"",""Genomics 5: 874-879 (1989)"",2687159,200902069950476844
+","Research Center for Genetic Information, Medical Institute of Bioregulation, Kyushu University
+*The original website was terminated.","http://qsnp.gen.kyushu-u.ac.jp/
+",2002-10-23,2008-09-22,,,,,1,,,
+DGBY,"Database for Gene function and expression of Baker's Yeast","nbdc00953
+",10.18908/lsdba.nbdc00953-000,"""Akira Ando"",""National Food Research Institute, National Agriculture and Food Research Organization"",,,,,0
+","""Microarray Data and other Gene Expression Databases""
+",,"""Saccharomyces cerevisiae"",4932
+",,"Baker’s yeast Saccharomyces cerevisiae is an essential ingredient in bakery products. Baker’s yeast is exposed to severe environmental stresses during bread making and the production of commercial yeast products. During bread making, yeast in frozen dough is exposed to freeze-thaw stress, and yeast in high-sugared dough is exposed to high osmolarity. In dried yeast preparation, yeast cells are exposed to air-drying stress.
+
+Figure: https://dbarchive.biosciencedbc.jp/images/dbarchive_images/mail_address/about_eg.jpg
+
+We have investigated the stress tolerance of baker’s yeast by utilizing post-genome research. We collected a wealth of data regarding genes that may be involved in stress tolerance by using two post-genomic approaches, that is, genome-wide gene expression analysis using DNA microarrays (transcriptomics), and genome-wide screening of S. cerevisiae deletion mutant collection (so-called phenomics). We uploaded these data on this website which is designated DGBY(Database for Gene expression and function of Baker's yeast).","This database is applicable to retrieve infomation on gene expression of baker's yeast and growth data of the deletion strain set of S. cerevisiae under baking associated stresses.","""This work was supported by a grant from the Program for Promotion of Basic Research Activities for Innovative Biosciences (PROBRAIN)."",201110030737911494,
+",,"""Functional genomic analysis of commercial baker's yeast during initial stages of model dough-fermentation."",""Tanaka F, Ando A, Nakamura T, Takagi H, Shima J."",""Food Microbiol. 2006 Dec;23(8):717-28. Epub 2006 Apr 4."",16943074,200902242754081770
+""Functional genomics of commercial baker's yeasts that have different abilities for sugar utilization and high-sucrose tolerance under different sugar conditions."",""Tanaka-Tsuno F, Mizukami-Murata S, Murata Y, Nakamura T, Ando A, Takagi H, Shima J."",""Yeast. 2007 Oct;24(10):901-11."",17724779,200902286186846900
+""Changes in gene expression of commercial baker's yeast during an air-drying process that simulates dried yeast production."",""Nakamura T, Mizukami-Murata S, Ando A, Murata Y, Takagi H, Shima J."",""J Biosci Bioeng. 2008 Oct;106(4):405-8."",19000619,200902243563683882
+""Identification and classification of genes required for tolerance to high-sucrose stress revealed by genome-wide screening of Saccharomyces cerevisiae."",""Ando A, Tanaka F, Murata Y, Takagi H, Shima J."",""FEMS Yeast Res. 2006 Mar;6(2):249-67."",16487347,200902242232742955
+""Identification and classification of genes required for tolerance to freeze-thaw stress revealed by genome-wide screening of Saccharomyces cerevisiae deletion strains."",""Ando A, Nakamura T, Murata Y, Takagi H, Shima J."",""FEMS Yeast Res. 2007 Mar;7(2):244-53. Epub 2006 Sep 21."",16989656,200902296147274830
+""Possible roles of vacuolar H+-ATPase and mitochondrial function in tolerance to air-drying stress revealed by genome-wide screening of Saccharomyces cerevisiae deletion strains."",""Shima J, Ando A, Takagi H."",""Yeast. 2008 Mar;25(3):179-90."",18224659,200902276052598793
+","National Food Research Institute, National Agriculture and Food Research Organization (NARO)","http://www.naro.affrc.go.jp/org/nfri/english/Useful/yeast/index.html
+",2006-10-02,2009-07-29,http://www.naro.affrc.go.jp/english/index.html,,"GEO, SGD, PubMed",1,,,,
+Dicty_cDB,"Dictyostelium cDNA Database","nbdc00419
+",10.18908/lsdba.nbdc00419-000,"""Hideko Urushihara"",""University of Tsukuba"",,,,,1
+""Yoshihiro Ugawa"",,,,,,0
+""Yuji Shimizu"",,,,,,0
+","""Genomics Databases (non-vertebrate) - Unicellular eukaryotes genome databases""
+",,,,"Dicty_cDB is a publicly available gene information database comprising the primary information obtained by EST analysis of Dictyostelium discoideum, which is known as a social amoeba, and a variety of additional secondary information. This database represents the results of the Dictyostelium cDNA Project in Japan for Dictyostelium discoideum.","Sequences and BLAST search results of all ESTs and assembled unigenes are displayed for D. discoideum. Clones themselves are distributed by NBRP (http://nenkin.lab.nig.ac.jp/).","""Grant-in-Aid for Scientific Research"",,
+""Grant-in-Aid for Publication of Scientific Research Results"",,
+""Research for the Future Program of the Japanese Society for Promotion of Science"",,31
+",,"""Analyses of cDNAs from growth and slug stages of Dictyostelium discoideum"",""Urushihara H, Morio T, Saito T, Kohara Y, Koriki E, Ochiai H, Maeda M, Williams JG, Takeuchi I, Tanaka Y."",""Nucleic Acids Res. 2004 Mar 9;32(5):1647-53."",15010511,200902233851438803
+","Graduate School of Life and Environmental Sciences, University of Tsukuba","
+",1996-12,2009-08,,,GENBANK/DDBJ/EBI,1,1,,,
+DMPD,"Dynamic Macrophage Pathway CSML Database","nbdc00558
+",10.18908/lsdba.nbdc00558-000,"""Masao Nagasaki"",""The Institute of Medical Science, The University of Tokyo"",,,,,0
+""Ayumu Saito"",""The Institute of Medical Science, The University of Tokyo"",,,,,0
+""Andre Fujita"",""The Institute of Medical Science, The University of Tokyo"",,,,,0
+""Kazuko Ueno"",""The Institute of Medical Science, The University of Tokyo"",,,,,0
+""Emi Ikeda"",""The Institute of Medical Science, The University of Tokyo"",,,,,0
+""Euna Jeong"",""The Institute of Medical Science, The University of Tokyo"",,,,,0
+""Satoru Miyano"",""The Institute of Medical Science, The University of Tokyo"",,,,,1
+""Nihon BIOBASE KK."",,,,,,0
+","""Metabolic and Signaling Pathways ""
+",,"""Homo sapiens"",9606
+Mammalia,40674
+",,"DMPD collects pathway models of transcriptional regulation and signal transduction in CSML format for dymamic simulation based on the curation of descriptions about LPS and PMA stimulation for macrophage from literature.","[Feature]
+This is the world's largest pathway simulation model database for regulation of differentiation and activation of macrophage. Information on those pathways are extracted in the CSML format, one of the XML format, from selected literatures described about the macrophage differentiation and activation (a total of 200 articles).
+[Utility and Manner of Utilization]
+The CSML format allows users to edit the model and perform simulation of the model by using Cell Illustrator which is one of the softwares for system biology. For experts in macrophage-related areas, it may be useful to search for pathway models related to their work, and also customize the models for further use. They can also take out part of a single pathway for further use or edit and integrate multiple pathways for use as a larger pathway model. Each model is also released in images such as the PNG format. So, you can still get the general picture of pathways by using ordinary browsers.","""Achievements of the Ministry of Education, Culture, Sports, Science and Technology - Genome Network Project (GNP)"",,1
+",,,"The Institute of Medical Science, The University of Tokyo","http://gnp.hgc.jp/macrophage/
+",2009-03,2009-08,http://gnp.hgc.jp/,http://gnp.hgc.jp/macrophage/,PubMed,,1,,,
+eSOL,"Solubility database of all E.coli proteins",,10.18908/lsdba.nbdc00440-000,"""Tatsuya Niwa"",""Department of Biomolecular Engineering, School and Graduate School of Bioscience and Biotechnology, Tokyo Institute of Technology"",,,,,0
+""Hideaki Sugawara"",""The Research and Development of Biological Databases Project, National Institute of Genetics"",,,,,0
+""Takuya Ueda"",""Department of Medical Genome Science, Graduate School of Frontier Sciences, The University of Tokyo"",,,,,0
+""Hideki Taguchi"",""Department of Biomolecular Engineering, School and Graduate School of Bioscience and Biotechnology, Tokyo Institute of Technology"",,,,,1
+","""Protein sequence databases - Protein properties""
+",,"""Escherichia coli"",562
+",,"The database of solubilities and synthetic yields of all E.coli proteins translated by using an in vitro reconstituted translation system. For 788 aggregation-prone proteins, the data of chaperone effects on the prevention of aggregate formation were added on May 2012.
+Gene segments from plasmids of ASKA library (Kitagawa et al. 2005) , which is the library of all genes of the E. coli strain K-12, were amplified by PCR, and their proteins were synthesized by using an in vitro translation system (PURE system). The solubilities were evaluated by SDS-PAGE and autoradiography before and after centrifugation.
+For aggregation-prone proteins (defined as the proteins with less than 30% solubility in the absence of any chaperone), observations of changes in solubility were made by adding the major chaperones of E. coli, Trigger Factor (TF), DnaK/DnaJ/GrpE (KJE) and GroEL/ES (GroE), individually.","Since PURE system is a reconstituted chaperone-free translation system, it is possible to evaluate the solubilities of translated proteins and the chaperone effects accurately. The acquired data will form the basis of protein folding studies and be useful for planning researches and industries using protein expression and improving their efficiencies.","""Grant-in-Aid for Scientific Research on Priority Areas:
+- Regulation of Nano-systems in Cells 17049009, 19037007
+- Protein Community 19058002"",,
+""Grant-in-Aid for Research Activity Start-up:
+- 22870010"",,
+""Grant-in-Aid for Scientific Research(A):
+- 18201040"",,
+""Targeted Proteins Research Program by the Mext,
+Technology Development Themes:
+- Protein Production PPC1
+- Information Platform IPC1"",,
+",,"""Global analysis of chaperone effects using a reconstituted cell-free translation system."",""Niwa T, Kanamori T, Ueda T, Taguchi H."",""Proc Natl Acad Sci U S A. 2012 Jun 5;109(23):8937-42."",22615364,201202263784155208
+""Bimodal protein solubility distribution revealed by an aggregation analysis of the entire ensemble of Escherichia coli proteins."",""Niwa T, Ying BW, Saito K, Jin W, Takada S, Ueda T, Taguchi H."",""Proc Natl Acad Sci U S A. 2009 Mar 17;106(11):4201-6."",19251648,200902244689813257
+","The Targeted Proteins Research Program promoted by the MEXT","http://www.tanpaku.org/tp-esol/index.php?lang=en
+",2009-06-18,2012-05-02,http://www.tanpaku.org/e_index.php,http://www.tanpaku.org/tp-esol/download.php?lang=en,GenoBase,,1,,,
+FANTOM5,"Functional Annotation of the Mammalian Genome","nbdc01389
+",10.18908/lsdba.nbdc01389-000.V003,"""Yoshihide Hayashizaki"",""RIKEN Preventive Medicine and Diagnosis Innovation Program / Omics Science Center"",200901051272882144,read0117945,,200901100413883043,0
+""Hideya Kawaji"",""RIKEN Preventive Medicine and Diagnosis Innovation Program / RIKEN Advanced Center for Computing and Communication / Center for Life Science Technologies / Omics Science Center / Center for Integrative Medical Sciences"",,,,201550000279179415,0
+""Takeya Kasukawa"",""RIKEN Center for Life Science Technologies / Center for Integrative Medical Sciences"",201301049355449068,kasukawa,,200901100594999048,0
+",,,"""Homo sapiens"",9606
+""Mus musculus"",10090
+""Canis lupus familiaris"",9615
+""Rattus norvegicus"",10116
+""Macaca mulatta"",9544
+""Gallus gallus"",9031
+",,"FANTOM is an international research consortium established by Dr. Hayashizaki and his colleagues in 2000 to assign functional annotations to the full-length cDNAs that were collected during the Mouse Encyclopedia Project at RIKEN. FANTOM has since developed and expanded over time to encompass the fields of transcriptome analysis. The object of the project is moving steadily up the layers in the system of life, progressing thus from an understanding of the 'elements' - the transcripts - to an understanding of the 'system' - the transcriptional regulatory network, in other words the 'system' of an individual life form. In FANTOM5, we have systematically investigated exactly what are the sets of genes used in virtually all cell types across the human body, and the genomic regions which determine where the genes are read from. We aim to use this information to build transcriptional regulatory models for every primary cell type that makes up a human. The resource provides raw and processed data obtained in the FANTOM5 project.","The FANTOM5 resources provides a comprehensive map of gene activity across the human body, and provides a holistic view of the complex networks that regulate gene expression across the wide variety of cell types that make up a human being. The resource can be a foundamental tool to define normal cells in human bodies. These findings will help in the identification of genes involved in disease and the development of personalized and regenerative medicine.",,,"""A promoter-level mammalian expression atlas."",""FANTOM Consortium and the RIKEN PMI and CLST (DGT), Forrest AR, Kawaji H, Rehli M, Baillie JK, de Hoon MJ, Lassmann T, Itoh M, Summers KM, Suzuki H, Daub CO, Kawai J, Heutink P, Hide W, Freeman TC, Lenhard B, Bajic VB, Taylor MS, Makeev VJ, Sandelin A, Hume DA, Carninci P, Hayashizaki Y."",""Nature. 2014 Mar 27;507(7493):462-70. doi: 10.1038/nature13182."",24670764,201402275043578678
+""An atlas of active enhancers across human cell types and tissues."",""Andersson R, Gebhard C, Miguel-Escalada I, Hoof I, Bornholdt J, Boyd M, Chen Y, Zhao X, Schmidl C, Suzuki T, Ntini E, Arner E, Valen E, Li K, Schwarzfischer L, Glatz D, Raithel J, Lilje B, Rapin N, Bagger FO, J?rgensen M, Andersen PR, Bertin N, Rackham O, Burroughs AM, Baillie JK, Ishizu Y, Shimizu Y, Furuhata E, Maeda S, Negishi Y, Mungall CJ, Meehan TF, Lassmann T, Itoh M, Kawaji H, Kondo N, Kawai J, Lennartsson A, Daub CO, Heutink P, Hume DA, Jensen TH, Suzuki H, Hayashizaki Y, M?ller F; FANTOM Consortium, Forrest AR, Carninci P, Rehli M, Sandelin A."",""Nature. 2014 Mar 27;507(7493):455-61. doi: 10.1038/nature12787."",24670763,201402230098400688
+""Transcribed enhancers lead waves of coordinated transcription in transitioning mammalian cells."",""Arner E, Daub CO, Vitting-Seerup K, Andersson R, Lilje B, Drabl?s F, Lennartsson A, R?nnerblad M, Hrydziuszko O, Vitezic M, Freeman TC, Alhendi AM, Arner P, Axton R, Baillie JK, Beckhouse A, Bodega B, Briggs J, Brombacher F, Davis M, Detmar M, Ehrlund A, Endoh M, Eslami A, Fagiolini M, Fairbairn L, Faulkner GJ, Ferrai C, Fisher ME, Forrester L, Goldowitz D, Guler R, Ha T, Hara M, Herlyn M, Ikawa T, Kai C, Kawamoto H, Khachigian LM, Klinken SP, Kojima S, Koseki H, Klein S, Mejhert N, Miyaguchi K, Mizuno Y, Morimoto M, Morris KJ, Mummery C, Nakachi Y, Ogishima S, Okada-Hatakeyama M, Okazaki Y, Orlando V, Ovchinnikov D, Passier R, Patrikakis M, Pombo A, Qin XY, Roy S, Sato H, Savvi S, Saxena A, Schwegmann A, Sugiyama D, Swoboda R, Tanaka H, Tomoiu A, Winteringham LN, Wolvetang E, Yanagi-Mizuochi C, Yoneda M, Zabierowski S, Zhang P, Abugessaisa I, Bertin N, Diehl AD, Fukuda S, Furuno M, Harshbarger J, Hasegawa A, Hori F, Ishikawa-Kato S, Ishizu Y, Itoh M, Kawashima T, Kojima M, Kondo N, Lizio M, Meehan TF, Mungall CJ, Murata M, Nishiyori-Sueki H, Sahin S, Nagao-Sato S, Severin J, de Hoon MJ, Kawai J, Kasukawa T, Lassmann T, Suzuki H, Kawaji H, Summers KM, Wells C; FANTOM Consortium, Hume DA, Forrest AR, Sandelin A, Carninci P, Hayashizaki Y."",""Science. 2015 Feb 27;347(6225):1010-4. doi: 10.1126/science.1259418. Epub 2015 Feb 12."",25678556,201502215990188624
+""An atlas of human long non-coding RNAs with accurate 5' ends"",""Chung-Chau Hon, Jordan A. Ramilowski, Jayson Harshbarger, Nicolas Bertin, Owen J. L. Rackham, Julian Gough, Elena Denisenko, Sebastian Schmeier, Thomas M. Poulsen, Jessica Severin, Marina Lizio, Hideya Kawaji, Takeya Kasukawa, Masayoshi Itoh, A. Maxwell Burroughs, Shohei Noma, Sarah Djebali, Tanvir Alam, Yulia A. Medvedeva, Alison C. Testa, Leonard Lipovich, Chi-Wai Yip, Imad Abugessaisa, Micka?l Mendez, Akira Hasegawa, Dave Tang, Timo Lassmann, Peter Heutink, Magda Babina, Christine A. Wells, Soichi Kojima, Yukio Nakamura, Harukazu Suzuki, Carsten O. Daub, Michiel J. L. de Hoon, Erik Arner, Yoshihide Hayashizaki, Piero Carninci & Alistair R. R. Forrest"",""Nature volume 543, pages 199?204 (09 March 2017)"",28241135,201702237954137081
+""An integrated expression atlas of miRNAs and their promoters in human and mouse"",""Derek de Rie, Imad Abugessaisa, Tanvir Alam, Erik Arner, Peter Arner, Haitham Ashoor, Gaby ?str?m, Magda Babina, Nicolas Bertin, A Maxwell Burroughs, Ailsa J Carlisle, Carsten O Daub, Michael Detmar, Ruslan Deviatiiarov, Alexandre Fort, Claudia Gebhard, Daniel Goldowitz, Sven Guhl, Thomas J Ha, Jayson Harshbarger, Akira Hasegawa, Kosuke Hashimoto, Meenhard Herlyn, Peter Heutink, Kelly J Hitchens, Chung Chau Hon, Edward Huang, Yuri Ishizu, Chieko Kai, Takeya Kasukawa, Peter Klinken, Timo Lassmann, Charles-Henri Lecellier, Weonju Lee, Marina Lizio, Vsevolod Makeev, Anthony Mathelier, Yulia A Medvedeva, Niklas Mejhert, Christopher J Mungall, Shohei Noma, Mitsuhiro Ohshima, Mariko Okada-Hatakeyama, Helena Persson, Patrizia Rizzu, Filip Roudnicky, P?l S?trom, Hiroki Sato, Jessica Severin, Jay W Shin, Rolf K Swoboda, Hiroshi Tarui, Hiroo Toyoda, Kristoffer Vitting-Seerup, Louise Winteringham, Yoko Yamaguchi, Kayoko Yasuzawa, Misako Yoneda, Noriko Yumoto, Susan Zabierowski, Peter G Zhang, Christine A Wells, Kim M Summers, Hideya Kawaji, Albin Sandelin, Michael Rehli, The FANTOM Consortium, Yoshihide Hayashizaki, Piero Carninci, Alistair R R Forrest & Michiel J L de Hoon"",""Nature Biotechnology volume 35, pages 872?878 (2017)"",28829439,201702267263543800
+","RIKEN Center for Integrative Medical Sciences","http://fantom.gsc.riken.jp/5/
+",2014-03-27,2019-03-12,,http://fantom.gsc.riken.jp/5/datafiles/,,,1,,,
+"First Author's",,"NBDC01090
+",,"""Keisuke Iida"",""Database Center for Life Science"",,,,,1
+",,"Literature
+",,,"Open access and online review articles written by Japanese authors who published their research outcomes in some top journals such as Science and Nature.",,,"MEXT Integrated Database Project
+Life Science Database Integration Project ""Development of fundamental technologies related to integration of databases""","バイオインフォマティクスを使い尽くす秘訣教えます！【第3回】「DBCLSが提供する日本語コンテンツ」,飯田啓介、小野浩雅,""生物工学会誌 第95巻 第1号(2017/1/25)"",0,
+新しい日本語Webコンテンツ，「新着論文レビュー」と「領域融合レビュー」,飯田啓介,""情報管理, 56, 148-155 (2013)"",0,
+","Database Center for Life Science","http://first.lifesciencedb.jp/
+",2010-09-01,,http://dbcls.rois.ac.jp/,,,1,1,,,
+fRNAdb,"Functional RNA Database","nbdc00452
+",10.18908/lsdba.nbdc00452-000,"""Toutai Mituyama"",""National Institute of Advanced Industrial Science and Technology (AIST)"",200901021897425969,read0120900,0000-0002-1110-6375,200901100489142727,0
+""Kiyoshi Asai"",""The University of Tokyo, Department of Frontier Sciences"",200901096723619667,read0081575,,200901100577693580,0
+","""RNA sequence databases""
+",,,"32,978 species","fRNAdb is a novel database service that hosts a large collection of non-coding transcripts including annotated/non-annotated sequences from the H-inv database,
+NONCODE and RNAdb. A set of computational analyses have been performed on the included sequences. These analyses include RNA secondary structure motif discovery, EST support evaluation, cis-regulatory element search, protein homology search, etc.","fRNAdb provides an efficient interface to help users filter out particular transcripts under their own criteria to sort out functional RNA candidates.","""NEDO """"Functional RNA Project"""" (2006-2010)"",,17
+",,"""fRNAdb: a platform for mining/annotating functional RNA candidates from non-coding RNA sequences"",""Kin T, Yamada K, Terai G, Okida H, Yoshinari Y, Ono Y, Kojima A, Kimura Y, Komori T, Asai K."",""Nucleic Acids Research/2007/D145-8"",17099231,201302272106442465
+""The Functional RNA Database 3.0: databases to support mining and annotation of functional RNAs."",""Mituyama T, Yamada K, Hattori E, Okida H, Ono Y, Terai G, Yoshizawa A, Komori T, Asai K."",""Nucleic Acids Research/2009/D89-92"",18948287,201302250310939553
+","National Institute of Industrial Science and Technology (AIST), Tokyo Waterfront
+*The original website was terminated.","http://www.ncrna.org/
+",2006-12,2011,,,,,,,,
+"Gclust Server",,"nbdc00464
+",10.18908/lsdba.nbdc00464-000,"""Naoki Sato"",""Laboratory of Plant Functional Genomics, Department of Life Sciences, Graduate School of Arts and Sciences, The University of Tokyo"",,,,,1
+","""Protein sequence databases""
+",,,"Taxonomy Name:11 plants, 9 Other bikonts, 25 cyanobacteria, 15 photosynthetic bacteria, 31 non-photosynthetic bacteria, 8 Opistokonts (animals and fungi), total 95 species","Database of sequence clusters obtained as a result of all-against-all BLAST search of proteins in 95 organism species.","Gclust is characterized by the capacity to perform classification of homologous proteins with automatically setting the threshold of similarity based on the results of the BLAST search of all proteins of all organism species to be compared. Because a homologous culster can be generated even for proteins with unknown function, Gclust may also be useful to find proteins which play important roles for a particular organisms or taxa of interest through such a generated homologous cluster specific to the organisms or taxa. (phylogenetic profiling).","""KAKENHI (Grant-in-Aid for Scientific Research) on Priority Areas """"Comparative Genomics"""" from the Ministry of Education, Culture, Sports, Science and Technology of Japan"",201410076767231384,
+""Research for the Future Program of the Japanese Society for Promotion of Science"",,31
+","Sequence comparison of homologous proteins across many organisms is the very basic of comparative genomics, but pairwise intergenomic comparison has been conventional. Degrees of sequence conservation depend on protein groups;some protein groups are highly conserved, but some orthologs are poorly conserved. Considering these points, we developed a technique which automatically generates ortholog clusters, and applied the technique to functional analysis of protein groups specific to photosynthetic organisms.","""Gclust: trans-kingdom classification of proteins using automatic individual threshold setting."",""Naoki Sato"",""Bioinformatics 2009 Mar 1;25(5):599-605."",19158159,201402237166411159
+","Laboratory of Plant Functional Genomics, Department of Life Sciences, Graduate School of Arts and Sciences, The University of Tokyo","http://gclust.c.u-tokyo.ac.jp/
+",2006-06,2008-04,,http://gclust.c.u-tokyo.ac.jp/Gclust_Download.html,"NCBI , JGI(http://www.jgi.doe.gov/) , CGP(http://merolae.biol.s.u-tokyo.ac.jp/)",,1,,,
+"Gene Name Thesaurus",,,10.18908/lsdba.nbdc00966-000,"""Kousaku Okubo"",""The Database Center for Life Science"",,,,,1
+",,"Dictionary
+","""Homo sapiens"",9606
+""Mus musculus"",10090
+""Rattus norvegicus"",10116
+""Danio rerio"",7955
+""Drosophila melanogaster"",7227
+""Caenorhabditis elegans"",6239
+""Saccharomyces cerevisiae"",4932
+""Schizosaccharomyces pombe"",4896
+""Bacillus subtilis"",1423
+",,"Gene names and gene family names were collected for 9 different organisms (including human, mouse, rat, zebrafish, fruit fly, nematode, budding yeast, fission yeast, Bacillus subtilis), and associated with parallel relationship (synonym) and hierarchical relationship (family name). Acronym notation and IDs of typical gene/genome databases are also treated as names.","This is not a database. But you can use it as a thesaurus. It might help you analyze and search literature with natural language processing.","""MEXT Integrated Database Project"",201410043352900536,25
+",,,"The Database Center for Life Science","http://lifesciencedb.jp/MEXT_H18/ii-7d71540862808853958b767a30fb63d04f9b/ii-1-8f9e66f830b730bd30fc30e930b9/907a4f1d5b50540d79f030b730bd30fc30e930b9
+",2007-03,2007-03,http://lifesciencedb.jp/lsdb.cgi?lng=en,http://lifesciencedb.jp/MEXT_H18/ii-7d71540862808853958b767a30fb63d04f9b/ii-1-8f9e66f830b730bd30fc30e930b9/907a4f1d5b50540d79f030b730bd30fc30e930b9,,,1,,,
+"GENIUS II",,"NBDC00471
+",10.18908/lsdba.nbdc00471-000,"""Suwa Makiko"",""Aoyama Gakuin University"",201201048367379932,7000002502,,200901100566271314,0
+","""Protein sequence databases""
+",,"Bacteria,2
+Archaea,2157
+Eukaryota,2759
+",,"GENIUS II is an automated database system in which protein coding regions in complete genomes are assigned to known three-dimensional structures.",,,,"""GENIUS II: a high-throughput database system for linking ORFs in complete genomes to known protein three-dimensional structures"",""Yabuki, Y., Mukai, Y., Swindells, M. B. and Suwa M."",""Bioinformatics (2004), 20 :596-598."",14751990,
+","National Institute of Industrial Science and Technology (AIST), Tokyo Waterfront
+*The original website was terminated.","http://genius.cbrc.jp
+",,,,,"PDB, Refseq, nr-aa, Prosite, CATH",1,1,,,
+GenLibi,"Gene Linker to bibliography",,10.18908/lsdba.nbdc01093-000,"""Japan Science and Technology Agency"",,,,,,0
+","""Human Genes and Diseases""
+",,"""Homo sapiens"",9606
+""Mus musculus"",10090
+""Rattus norvegicus"",10116
+",,"GenLibi (Gene Linker to bibliography) provides information on genes and their related diseases and phenotypes that were obtained from the JST bibliographic information JDream II.","Users can get bibliographic information by searching with the name of the diseases and the phenotypes.
+The original site automatically integrated information from EntrezGene, RefSeq, HGNC, KEGG PATHWAY, Reactome, KEGG SSDB and JDream II, and provided together information on genes, proteins, polymorphisms, pathways, phenotypes and ortholog/protein sequences related to human, mouse and rat genes.","""JST (Japan Science and Technology Agency) - BIRD (Institute for Bioinformatics Research and Development)"",200904072106278644,
+",,,"Japan Science and Technology Agency","http://gene.biosciencedbc.jp/
+",2007-03-01,2009-11-30,http://biosciencedbc.jp/,,"EntrezGene, HGNC, MGI, Genes, RefSeq, GenBank, NCBI Map_Viewer, GO (Gene Ontology), Enzyme EC number, UniProt, JSNP, dbSNP, KEGG PATHWAY, Reactome, OMIM, JDream II, PubMed, SGD (yeast), HuGE Navigator, J-GLOBAL
+Note: the archived version provides links only to NCBI Gene, NCBI MeSH and J-GLOBAL.",1,1,,,
+GETDB,"Gal4 Enhancer Trap Insertion Database","nbdc00236
+",10.18908/lsdba.nbdc00236-000,"""Shigeo Hayashi"",""RIKEN Center for Developmental Biology"",,,,,1
+",,"Expression
+""Invertebrate genome database""
+","""Drosophila melanogaster"",7227
+",,"About 4,600 insertion lines of enhancer trap lines based on the Gal4-UAS method were generated in Drosophila, and all of these insertion lines were tested for enhancer activity in embryo and larva by NP consortium. Moreover, the insertion position was mapped in the genome sequence form, and the correspondence relationship with gene was identified for 2,157 independent sites. This database is available to the public as the database that has compiled the insertion position and enhancer activity of Gal4 enhancer trap lines.","The lines shown in the database are maintained and distributed by the National Institute of Genetics and Kyoto Institute of Technology.","""KAKENHI (Grant-in-Aid for Scientific Research) on Priority Areas """"Systems Genomics"""" from the Ministry of Education, Culture, Sports, Science and Technology of Japan (FY2000-2004)"",201410076767231384,
+""Research for the Future Program of the Japanese Society for Promotion of Science"",,31
+",,"""GETDB, a database compiling expression patterns and molecular locations of a collection of Gal4 enhancer traps."",""Hayashi S, Ito K, Sado Y, Taniguchi M, Akimoto A, Takeuchi H, Aigaki T, Matsuzaki F, Nakagoshi H, Tanimura T, Ueda R, Uemura T, Yoshihara M, Goto S."",""Genesis. 2002 Sep-Oct;34(1-2):58-61."",12324948,201302120332062298
+","Drosophila Genetic Resource Center","http://kyotofly.kit.jp/stocks/GETDB/getdb.html
+",2003-08-01,2009-09-04,http://fruitfly.jp/,,FlyBase,1,1,,,
+"GGGenome dataset",,"nbdc01424
+",,"""Yuki Naito"",""Database Center for Life Science"",201201071327312942,meso_cacase,0000-0002-1182-6786,201550000300230035,1
+","""Nucleotide Sequence Databases""
+",,,,"GGGenome is a tool for fast and sensitive search for genomic and transcript sequence. You can use it in Web (https://GGGenome.dbcls.jp/) and as a distributed Docker container. If you use the Docker container, you have to set this dataset in it. Contact the above ""Contact address"" about the distribution of GGGenome container.
+About the reference sequence data (fasta format) in this dataset, you can use it for another purpose.","GGGenome exhaustively searches short sequences allowing mismatches and gaps.","""MEXT Integrated Database Project"",,0
+""Life Science Database Integration Project"",201304069785935332,0
+""Development of fundamental technologies related to integration of databases"",201304036502222259,0
+",,,"Database Center for Life Science","https://GGGenome.dbcls.jp/
+",2012-07-04,2019-07-31,https://dbcls.rois.ac.jp/,,,,1,1,https://GGGenome.dbcls.jp/,
+GRIPDB,"GPCRs Interaction Partners Database","nbdc01665
+",10.18908/lsdba.nbdc01665-000,"""Wataru Nemoto"",""Computational Biology Research Center (CBRC)"",201201023776690752,7000000909,0000-0001-6362-007X,201201100225002264,1
+""Kazuhiko Fukui"",""Computational Biology Research Center (CBRC)"",200901017295507576,read0120683,,200901100393125406,0
+""Hiroyuki Toh"",""Computational Biology Research Center (CBRC)"",200901083991714708,read0113136,,200901100491250014,0
+","""Protein sequence databases - Databases of individual protein families""
+""Structure Databases - Protein structure""
+""Protein sequence databases - Protein sequence motifs and active sites""
+",,"""Homo Sapiens"",9606
+",,"GRIPDB provides information about GPCR oligomerization. The entries in the database are divided into two sections: (I) Experiment Information section and (II) Prediction Information section. The Experiment Information section contains (I-i) experimentally indentified GPCR oligomers and their annotations, and (I-ii) experimentally suggested interfaces for the oligomerization.The entries for the Prediction Information section
+provide the interface residues or regions predicted
+by computational methods. The details of the entries in
+both sections are described below.","The information in the GRIPDB, especially that about the interfaces, is useful to investigate the molecular mechanisms of signal transduction via GPCR oligomerization.","""The Japan-India Strategic International Cooperative Program of the Japan Science and Technology Agency (JST)."",201204018484845477,
+",,"""GRIPDB - G protein coupled Receptor Interaction Partners DataBase."",""Nemoto W, Fukui K, Toh H."",""J Recept Signal Transduct Res. 2011 Jun;31(3):199-205."",21410407,201202267750916817
+","National Institute of Industrial Science and Technology (AIST), Tokyo Waterfront
+*The original website was terminated.","http://grip.cbrc.jp/GDB/index.html
+",2009-01-30,,,,"PDB, RefSeq, PubMed",1,1,,,1
+INOH,"Integrating Network Objects with Hierarchies","nbdc00107
+",10.18908/lsdba.nbdc00107-000.V003,"""Toshihisa Takagi"",""School of Science, The University of Tokyo"",201101052485930732,takagi,,200901100503133582,1
+""Ken-ichiro Fukuda"",""Information and Communication Infrastructure Division, National Institute of Advanced Industrial Science and Technology"",200901050332753032,read0205812,,,0
+""Satoko Yamamoto"",""Institute for Bioinformatics Research and Development, Japan Science and Technology Agency"",,,,,0
+""Noriko Sakai"",""Institute for Bioinformatics Research and Development, Japan Science and Technology Agency"",,,,,0
+""Hiromi Nakamura"",""Information and Mathematical Science and Bioinformatics Co., Ltd."",,,,,0
+","""Metabolic and Signaling Pathways - Metabolic pathways""
+""Metabolic and Signaling Pathways - Protein-protein interactions""
+""Metabolic and Signaling Pathways - Signalling pathways""
+",,,"Model species (Homo sapiens, Mus musculus, Rattus norvegicus) etc.","INOH database is a highly structured, manually curated database of signal transduction pathways. The database focuses on curating and encoding textual knowledge in scientific articles into a machine-processable form.","INOH database provides signal transduction pathway data which is well-annotated by the INOH ontology terms.
+INOH curators who have a biological background created pathways and annotated every pathway component by a set of uniquely developed ontologies.
+The INOH Client tool, which is a pathway navigation/editor tool, is freely downloadable.
+INOH pathway diagrams are freely available in INOH XML and BioPAX formats.","""Institute for Bioinformatics Research and Development, Japan Science and Technology Agency"",200904046071000167,24
+",,"""INOH: ontology-based highly structured database of signal transduction pathways."",""Yamamoto S, Sakai N, Nakamura H, Fukagawa H, Fukuda K, Takagi T."",""Database (Oxford). 2011 Nov 26;2011:bar052. Print 2011."",22120663,
+""INOH pathway database: Curation, Annotation, Integration."",""Fukuda K."",""InterOntology08, 1(1), pp.47-50 (2008)."",,
+""Graphical Syntax and Query for Pathway Database"",""Fukuda, K., Yamamoto, S., Sakai, N., Nakanishi, Y., Nakamura, H., Takagi, T."",""The 10th World Multi-Conference on Systemics, Cybernetics and Infrmatics, pp7-10 (2006)."",,201002224083332342
+""Event ontology: a pathway-centric ontology for biological processes."",""Kushida T, Takagi T, Fukuda K."",""Pac Symp Biocomput. 2006:152-63."",17094236,
+""Research on biological pathways peculiar to woody perennial Plants using a pathway database : P-INOH."",""Kushida, T., Yamamoto, S., Yamagata, Y., Asanuma, T., Hattori, E., Takagi, T. and Fukuda, K."",""Proceedings of International Workshop on Knowledge Discovery and Data Management in Biomedical Science. 2005.5, pp.56-67"",,
+""Higher Order Knowledge Proceeding : Pathway Database and Ontologies."",""Fukuda, K."",""Genomics & Informatics, vol.3, No.2, ISSN 1598-866X, 2005.6, pp.47-51"",,
+""The Molecule Role Ontology: An Ontology for Annotation of Signal Transduction Pathway Molecules in the Scientific Literature."",""Yamamoto S, Asanuma T, Takagi T, Fukuda K."",""Comp Funct Genomics. 2004;5(6-7):528-36."",18629146,201002290449983344
+""A Pathway Editor for Literature-based Knowledge Curation."",""Ken-ichiro Fukuda, Toshihisa Takagi."",""APBC 2004, pp.339-344."",,
+""Pathway Database: Higher Order Knowledge in Biology."",""Ken-ichiro Fukuda, Yuki Yamagata, Toshihisa Takagi."",""nformation Processing Society of Japan (IPSJ), Transactions on Databases, vol.45 No.SIG7(TOD 22) June 2004, pp.77-84"",,200902201795333018
+""FREX: a query interface for biological processes with hierarchical and recursive structures."",""Fukuda K, Yamagata Y, Takagi T."",""In Silico Biol. 2004;4(1):63-79. Epub 2004 Feb 22."",15089754,
+""Knowledge representation of signal transduction pathways."",""Fukuda K, Takagi T."",""Bioinformatics. 2001 Sep;17(9):829-37."",11590099,200902170364409120
+","The Institute of Medical Science, The University of Tokyo
+*The original website was terminated.","http://inoh.hgc.jp/
+",2006-02-01,2011-03-29,,http://inoh.hgc.jp/download.html,,1,1,1,http://inoh.hgc.jp/inoh_api_manual.html,
+"jPOST repository metadata",,"nbdc01594
+",10.18908/lsdba.nbdc01594-000,"""Yasushi Ishihama"",""Graduate School of Pharmaceutical Sciences, Kyoto University"",200901055328608810,read0121778,0000-0001-7714-203X,200901100350399979,1
+""Susumu Goto"",""Database Center for Life Science, Research Organization of Information and Systems"",200901003217633483,read0183910,0000-0003-2989-8486,200901100337621077,0
+""Norie Araki"",""Graduate School of Medical Scienses, Kumamoto University"",200901000315656140,read0043428,,200901100545851051,0
+""Masaki Matsumoto"",""Medical Institute of Bioregulation, Kyushu University"",200901077148297194,read0067478,,201550000300102150,0
+""Shujiro Okuda"",""Niigata University Graduate School of Medical and Dental Sciences"",200901054853171620,read0145560,0000-0002-7704-8104,201550000060651313,0
+""Shin Kawano"",""Database Center for Life Science, Research Organization of Information and Systems"",200901037038220690,read0065295,0000-0002-7969-2972,,0
+","""Proteomics Resources""
+",,,,"jPOST(Japan ProteOme STandard Repository/Database) is the repository where users reposit mass spectrometry (MS) raw data, peak lists and analyzed data. jPOST joins the ProtemoeXchange (PX) Consortium, so it can issue PX ID users need in submitting their articles. This archive consisits the metadata of jPOST repository.",,"""Life Science Database Integration Project """"Development of an Integrated Database for Proteomes""""(FY2015-FY2017)"",201304096002265299,
+",,"""jPOSTrepo: an international standard data repository for proteomes"",""Shujiro Okuda, Yu Watanabe, Yuki Moriya, Shin Kawano, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Naoyuki Sugiyama, Susumu Goto, Yasushi Ishihama"",""Nucleic Acids Research, Volume 45, Issue D1, 4 January 2017, Pages D1107?D1111"",27899654,
+","jPOST team","https://repository.jpostdb.org/
+",2016-05-02,2018-01-31,https://jpost.org/,,,1,1,,,
+JSNP,"Japanese Single Nucleotide Polymorphisms","nbdc00114
+",10.18908/lsdba.nbdc00114-000,"""Human Genome Center, the Institute of Medical Science, the University of Tokyo"",,,,,,0
+""Japan Science and Technology Agency"",,,,,,0
+","""Human Genes and Diseases - General polymorphism databases""
+",,"""Homo sapiens"",9606
+",,"A database of about 197,000 polymorphisms in Japanese population, with annotations such as genes, positions, amino acid substitutions","Allele frequencies in Japanese populatoin are also available.","""The Japanese Millennium Project """"Standard SNPs Analysis Project"""" of the New Energy and Industrial Technology Development Organization (NEDO)"",,30
+",,"""JSNP: a database of common gene variations in the Japanese population"",""Hirakawa M, Tanaka T, Hashimoto Y, Kuroda M, Takagi T, Nakamura Y."",""Nucleic Acids Research, 30:158-162, 2002"",11752280,200902164386301250
+""Gene-based SNP discovery as part of the Japanese Millennium Genome Project : identification of 190,562 genetic variations in the human genome."",""Haga H, Yamada R, Ohnishi Y, Nakamura Y, Tanaka T."",""Journal of Human Genetics, 2002;47(11):605-610"",12436197,200902159217500541
+","Institute of Medical Science, University of Tokyo * Original website was terminated.","http://snp.ims.u-tokyo.ac.jp/index.html
+http://biosciencedbc.jp/moved-jsnp-biosciencedbc-jp
+",2000-07-07,2014-05-08,,http://snp.ims.u-tokyo.ac.jp/data_download.html,dbSNP,1,1,,,
+KAIKOcDNA,,"nbdc00951
+",10.18908/lsdba.nbdc00951-000,"""Yoshitaka Suetsugu"",""National Institute of Agrobiological Sciences"",,,,,0
+","""Nucleotide Sequence Databases""
+",,"""Bombyx mori"",7091
+",,"KAIKOcDNA is a database of cDNA (EST) information accumulated by the Silkworm Genome Research Program (SGP).","KAIKOcDNA database provides the sets of silkworm partial cDNA sequences with a simple annotation, which submitted to public database such as DDBJ. It allows users to search cDNAs by various methods, e.g. accession number, clone name, BLAST search score, GO (Gene Ontology) term and keywords. Clustering information and annotation of the EST can be referenced from the search results. The characteristic information of the cDNA libraries those are species of silkworm, organ / tissue, and developmental stage, etc.,  is described in ""cDNA libraries"".","""Grants-in-Aid for Scientific Research &lt;KAKENHI&gt; (No.506015, 1999; No.128102, 2000)"",,
+""Management Expenses Grants"",,
+""Ministry of Agriculture, Forestry and Fisheries of Japan (MAFF) commissioned research project """"Integrated research project for plant, insect and animal using genome technology (basic insect genome research for creating and enhancing market demand)"""""",,
+",,"""Large scale full-length cDNA sequencing reveals a unique genomic landscape in a lepidopteran model insect, Bombyx mori"",""Suetsugu Y, Futahashi R, Kanamori H, Kadono-Okuda K, Sasanuma S, Narukawa J,Ajimura M, Jouraku A, Namiki N, Shimomura M, Sezutsu H, Osanai-Futahashi M,　Suzuki MG, Daimon T, Shinoda T, Taniai K, Asaoka K, Niwa R, Kawaoka S, Katsuma S,Tamura T, Noda H, Kasahara M, Sugano S, Suzuki Y, Fujiwara H, Kataoka H, Arunkumar KP, Tomar A, Nagaraju J, Goldsmith MR, Feng Q, Xia Q, Yamamoto K, Shimada T, Mita K."",""G3 (Bethesda) / 2013, Sep / vol.9"",23821615,
+","National Institute of Agrobiological Sciences","http://sgp.dna.affrc.go.jp/EST/
+",2004-04-12,2011-11-11,http://sgp.dna.affrc.go.jp/,,"KAIKObase (http://sgp.dna.affrc.go.jp/KAIKObase/)
+InterPro (http://www.ebi.ac.uk/interpro/)
+SPRINT (http://www.bioinf.man.ac.uk/dbbrowser/sprint/)
+Pfam (http://pfam.xfam.org/)
+PIR (http://pir.georgetown.edu/pirwww/index.shtml)
+ProDom (http://prodom.prabi.fr/prodom/current/html/home.php)
+SMART (http://smart.embl-heidelberg.de/)
+SUPERFAMILY (http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi)
+CATH/Gene3D (http://www.cathdb.info/)
+PROSITE (http://prosite.expasy.org/)
+HAMAP (http://hamap.expasy.org/)
+PANTHER (http://www.pantherdb.org/)
+NCBI (http://www.ncbi.nlm.nih.gov/)
+WormBase (http://www.wormbase.org/)
+VectorBase (https://www.vectorbase.org/)",1,1,,,
+"KEGG MEDICUS",,"nbdc01185
+",10.18908/lsdba.nbdc01185-000.V002,"""Minoru Kanehisa"",""Institute for Chemical Research, Kyoto University"",200901024319681897,read0082013,,,1
+","""Human Genes and Diseases""
+""Other Molecular Biology Databases - Drugs and drug design""
+",,"""Homo sapiens"",9606
+",,"KEGG MEDICUS is an integrated information resource of diseases, drugs, and health-related substances, aiming to bring the genomic revolution to society.","Drug labels (package inserts) of all marketed drugs in Japan and the USA are integrated with the KEGG DRUG and KEGG DISEASE databases in KEGG MEDICUS. The resource can assist researchers to translate research results into practical applications and can also help medical professionals and people in society to better understand the scientific basis of diseases and drugs. (This archive version does not contain package inserts.)","""Life Science Database Integration Project """"Genome-based integrated resource for diseases, drugs, and environmental substances""""(FY2011-FY2013)"",201304032293847208,
+""Life Science Database Integration Project """"Integrated database linking genomes to phenotypes, diseases and drugs""""(FY2014-FY2016)"",,
+""Life Science Database Integration Project """"Network database integrating genomes, diseases and drugs""""(FY2017-FY2021)"",,
+",,"""KEGG for representation and analysis of molecular networks involving diseases and drugs."",""Kanehisa, M., Goto, S., Furumichi, M., Tanabe, M., Hirakawa, M."",""Nucleic Acids Res./ 2010/ 38, D355-D360"",19880382,
+","Kanehisa Laboratory, Institute for Chemical Research, Kyoto University","http://www.kegg.jp/kegg/medicus/
+",2010-10-01,2017-12-12,http://www.kanehisa.jp/ja/,ftp://ftp.genome.jp/pub/kegg/medicus/,,1,1,1,http://www.kegg.jp/kegg/rest/,
+KOME,"Knowledge-based Oryza Molecular biological Encyclopedia","nbdc00120
+",10.18908/lsdba.nbdc00120-000,"""Shoshi Kikuchi"",""National Institute of Agrobiological Sciences"",,,,,0
+","""Plant databases - Rice""
+",,"""Oryza sativa"",4530
+",,"Information about approximately 38,000 full-length cDNA clones that were completely sequenced in the Rice full-length cDNA project is shown in the database. The full-length cDNA clones were collected from various tissues treated under various stress conditions. The database contains not only information about complete nucleotide sequences and encoded amino acid sequences, but also results of homology searches against public databases, mapping information, information about patterns of alternative splicing, protein domains and transmembrane structures, and information about cellular localizations and gene functions annotated with Gene Ontology.","The full-length cDNA libraries were constructed from randomly picked 170,000 clones derived from twenty types of stressed tissues of japonica rice. The clones were grouped into 28,000 independent classes according to their 3' terminal single-pass sequences. All of the representative clones were completely sequenced.","""The Rice Full-Length cDNA"",,5
+","The information about full-length cDNA clones were collected and completely sequenced by the joint collaboration of National Institute of Agrobiological Sciences (NIAS), Foundation of Advancement of International Science (FAIS), and RIKEN institute, under the supervision of BRAIN (Bio-oriented Technology Research Advancement Institution). This work has been undertaken through the project named ""The Rice Full-Length cDNA"".","""Collection, mapping, and annotation of over 28,000 cDNA clones from japonica rice"",""Rice Full-Length cDNA Consortium; National Institute of Agrobiological Sciences Rice Full-Length cDNA Project Team, Kikuchi S*, Satoh K, Nagata T, Kawagashira N, Doi K, Kishimoto N, Yazaki J, Ishikawa M, Yamada H, Ooka H, Hotta I, Kojima K, Namiki T, Ohneda E, Yahagi W, Suzuki K, Li CJ, Ohtsuki K, Shishiki T;
+Foundation of Advancement of International Science Genome Sequencing & Analysis Group, Otomo Y, Murakami K, Iida Y, Sugano S, Fujimura T, Suzuki Y, Tsunoda Y, Kurosaki T, Kodama T, Masuda H, Kobayashi M, Xie Q, Lu M, Narikawa R, Sugiyama A, Mizuno K, Yokomizo S, Niikura J, Ikeda R, Ishibiki J, Kawamata M, Yoshimura A, Miura J, Kusumegi T, Oka M, Ryu R, Ueda M, Matsubara K;
+RIKEN, Kawai J, Carninci P, Adachi J, Aizawa K, Arakawa T, Fukuda S, Hara A, Hashizume W, Hayatsu N, Imotani K, Ishii Y, Itoh M, Kagawa I, Kondo S, Konno H, Miyazaki A, Osato N, Ota Y, Saito R, Sasaki D, Sato K, Shibata K, Shinagawa A, Shiraki T, Yoshino M, Hayashizaki Y, Yasunishi A."",""Science 2003 July 18; Vol.301 no.5631: pp.376-379"",12869764,200902243136795840
+""Gene organization in rice revealed by full-length cDNA mapping and gene expression analysis through microarray"",""Satoh K, Doi K, Nagata T, Kishimoto N, Suzuki K, Otomo Y, Kawai J, Nakamura M, Hirozane-Kishikawa T, Kanagawa S, Arakawa T, Takahashi-Iida J, Murata M, Ninomiya N, Sasaki D, Fukuda S, Tagami M, Yamagata H, Kurita K, Kamiya K, Yamamoto M, Kikuta A, Bito T, Fujitsuka N, Ito K, Kanamori H, Choi IR, Nagamura Y, Matsumoto T, Murakami K, Matsubara K, Carninci P, Hayashizaki Y, Kikuchi S."",""PLoS One. 2007 Nov 28; 2(11):e1235."",18043742,201302253450484016
+","National Institute of Agrobiological Sciences","http://cdna01.dna.affrc.go.jp/cDNA/
+",2003-07-18,2010-03-31,http://agrid.dna.affrc.go.jp/cgi-bin/sogo.cgi?class=719&lang=en,,"DDBJ
+NCBI-GenBank
+TIGR
+BGI RIS
+Rice Microarray Opening Site (RMOS)
+Rice mutant panel database (Tos17)
+A Database of Plant Cis-acting Regulatory DNA Elements (PLACE)
+PIR
+SWISS-PROT
+UniProt
+InterPro
+Blocks
+Rice Proteome Database",1,1,,,
+"Leading Author's",,"NBDC01195
+",,"""Keisuke Iida"",""Database Center for Life Science"",,,,,1
+",,"Literature
+",,,"Open access and online review articles written by Japanese authors who lead several biological research areas.",,,"MEXT Integrated Database Project
+Life Science Database Integration Project ""Development of fundamental technologies related to integration of databases""","バイオインフォマティクスを使い尽くす秘訣教えます！【第3回】「DBCLSが提供する日本語コンテンツ」,飯田啓介、小野浩雅,""生物工学会誌 第95巻 第1号(2017/1/25)"",0,
+新しい日本語Webコンテンツ，「新着論文レビュー」と「領域融合レビュー」,飯田啓介,""情報管理, 56, 148-155 (2013)"",0,
+","Database Center for Life Science","http://leading.lifesciencedb.jp/
+",2012-09-01,,http://dbcls.rois.ac.jp/,,,1,1,,,
+"MeCab user dictionary for science technology term",,"NBDC02358
+",10.18908/lsdba.nbdc02358-000.V002,"""Yuka Tateisi"",""National Bioscience Database Center"",200901004043498359,read0125210,,201550000083251746,0
+",,"dictionary
+",,,"We have made a user dictionary of morphological analysis engine MeCab (http://taku910.github.io/mecab/) headwords and synonyms of JST Thesaurus (2015 edition) . The dictionary items are based on IPA dictionary and encoded in UTF-8. Entries with zenkaku alphabets, numerals and symbols converted into corresponding hankaku characters are also included.
+Please note that this dictionary can not be used as a thesaurus because information on relations between words is not included in the dictionary.",,"""Life Science Database Integration Project"",201304069785935332,
+",,"JST科学技術用語シソーラスに基づくMeCab用専門用語辞書,""建石由佳, 信定知江, 高木利久"",""言語処理学会第23回年次大会、P7-1 (予稿集 pp485-488）、2017年3月"",,201702253099150088
+","National Bioscience Database Center",,2018-06-04,2019-05-17,,,"IPA dictionary, JST Thesaurus (2015 edition)",1,1,,,
+Metabolonote,,"nbdc01324
+",10.18908/lsdba.nbdc01324-000,"""Nozomu Sakurai"",""Kazusa DNA Research Institute"",,,,200901100570339845,0
+""Takeshi Ara"",""Kazusa DNA Research Institute"",200901083593941290,read0116102,,200901100349725323,0
+""Mitsuo Enomoto"",""Kazusa DNA Research Institute"",,,,,0
+",,"""Experimental Metadata (Materials and Methods)""
+",,"whole organism","A database specified for managing information on experimental methods (metadata) which is accompanied with the experimental data obtained from metabolomics studies. This system aims to promote the publication and utilization of metabolomics data by simplifying the metadata record process.
+Note: Archived data has been downloaded from the original site in 2016/5/18.","Separation of the management of metadata from that of experimental data has the following two advantages: (1) Multiple databases that stores experimental data can share the same metadata, and (2) the submitter can manage the metadata at one site. The Wiki-based recording system helps submitters to prepare metadata with ease. The system allowes submitters to attach additional information such as image files of the sample, movie files of tricky experiments, and hyperlinks to the related web resources. Such a user-centric design of the system contributes to accelarate publication of metabolomics data.","""This work is supported by the project of promotion of integration of life science databases by National Bioscience Database Center（NBDC）, Japan Science and Technology Agency （JST）."",201304029921302010,
+",,"""Metabolonote: a wiki-based database for managing hierarchical metadata of metabolome analyses."",""Ara T, Enomoto M, Arita M, Ikeda C, Kera K, Yamada M, Nishioka T, Ikeda T, Nihei Y, Shibata D, Kanaya S and Sakurai N (2015)"",""Front Bioeng Biotechnol 3: 38"",25905099,
+","Kazusa DNA Research Institute
+2-6-7 Kazusa-kamatari, Kisarazu, Chiba, 292-0818, Japan","http://metabolonote.kazusa.or.jp/
+",2012-12-28,2016-05-20,http://www.kazusa.or.jp/komics/,,"KOMICS
+MassBase
+KomicMarket
+NEW KomicMarket Temporary Website
+Bio-MassBank
+MassBank
+KNApSAcK Family",1,1,1,http://metabolonote.kazusa.or.jp/Help:Use_Data_From_External_System,
+MicrobeDB.jp,,"NBDC01181
+",10.18908/lsdba.nbdc01181-000.V002,"""Ken Kurokawa"",""Center for Information Biology, National Institute of Genetics"",200901090038088057,read0119484,,200901100451208317,1
+""Yasukazu Nakamura"",""Center for Information Biology, National Institute of Genetics"",201001025273786718,yaskaz,,200901100313069420,0
+""Ikuo Uchiyama"",""National Institute for Basic Biology"",200901081292717901,read0061570,,200901100476958892,0
+""Hiroshi Mori"",""Center for Information Biology, National Institute of Genetics"",201601016277811550,himori,,201550000025436922,0
+""Takatomo Fujisawa"",""Center for Information Biology, National Institute of Genetics"",201301018781550644,takatomo,,201550000165064448,0
+""Hirokazu Chiba"",""National Institute for Basic Biology"",,,,201550000300011619,0
+""Nozomi Yamamoto"",""School of Life Science, Tokyo Institute of Technology"",,,,,0
+""Shinya Suzuki"",""School of Life Science, Tokyo Institute of Technology"",,,,,0
+""Hiroyo Nishide"",""National Institute for Basic Biology"",,,,,0
+",,"""Integrated database of microbiological""
+","Archaea,2157
+Bacteria,2
+Fungi,4751
+",,"MicrobeDB.jp is an integrated database of several microbiological datasets (e.g., genes, taxa, and environments) using semantic web technology with a gene/genome -centric approach.","MicrobeDB.jp version 2 (doi: 10.18908/lsdba.nbdc01181-000.V002) is an updated version of MicrobeDB.jp version 1 (doi: 10.18908/lsdba.nbdc01181-000.V001). Since version 1 contains microbial genome, ortholog, metagenome, and culture collection data that were obtained before 2013, we updated these data with reorganizing RDF data structures. Microbial environmental ontology and other ontologies were also updated. These ontologies were used for annotation of the data. The data format of MicrobeDB.jp version 2 are RDF and OWL. Users can use these data by (i) loading the data to Triplestore, and (ii) searching the data using SPARQL.",,"Database Integration Coordination Program, National Bioscience Database Center (NBDC), Japan Science and Technology Agency (JST).",,"National Institute of Technology","http://microbedb.jp/
+",2012-12-12,2017-02-01,http://microbedb.jp/,,"NCBI RefSeq, INSDC GenBank, INSDC SRA, NBRC, JCM, NCBI BioProject, NCBI BioSample, NCBI Taxonomy, JGI GOLD, UniProt, PubMed",,1,,,
+"Mouse Basement Membrane Bodymap",,"nbdc00574
+",10.18908/lsdba.nbdc00574-000,"""Kiyotoshi Sekiguchi"",""Institute for Protein Research, Osaka University"",200901047247681811,read0054833,,200901100454736667,1
+""Ko Tsutsui"",""RIKEN Center for Developmental Biology"",,,,200901100417896336,0
+""Ri-ichiroh Manabe"",""RIKEN Center for Life Science Technologies"",,,,201550000272342043,0
+","""Protein sequence databases - Protein localization and targeting""
+","画像データベース
+","""Mus musculus"",10090
+",,"This is a database of body-wide localizations of basement membrane proteins in developing mouse embryos. The database consists of hundreds of high resolution virtual slides created from gigapixel digital images representing immunohistochemically stained whole mouse sagittal and head frontal sections and hematoxylin/eosin stained adjacent sections.","This database provides immunohistochemically stained virtual slides in which visitors can observe and compare expression patterns of 42 different ECM proteins in the interesting developing organs on the same platform with hematoxylin/eosin stained adjacent slides.",,"JST Exploratory Research for Advanced Technology (ERATO) SEKIGUCHI Biomatrix Signaling (2000-2005)","""Transcriptome-based systematic identification of extracellular matrix proteins."",""Manabe R, Tsutsui K, Yamada T, Kimura M, Nakano I, Shimono C, Sanzen N, Furutani Y, Fukuda T, Oguri Y, Shimamoto K, Kiyozumi D, Sato Y, Sado Y, Senoo H, Yamashina S, Fukuda S, Kawai J, Sugiura N, Kimata K, Hayashizaki Y, Sekiguchi K."",""Proc Natl Acad Sci U S A. 2008 Sep 2;105(35):12849-54. doi: 10.1073/pnas.0803640105. Epub 2008 Aug 29."",18757743,
+","Japan Science and Technology Agency","http://dbarchive.biosciencedbc.jp/archive/matrixome/bm/home.html
+",2008-08-18,2015-07-21,,,,1,1,,,
+"NBDC NikkajiRDF","NBDC Japan Chemical Substance Dictionary (Nikkaji) RDF","nbdc01530
+",10.18908/lsdba.nbdc01530-02-000.V008,"""Japan Science and Technology Agency (JST)"",,,,,,0
+",,"""Chemical Database""
+",,,"NBDC NikkajiRDF is RDF data of Japan Chemical Substance Dictionary (Nikkaji), which is one of the largest chemical substance databases in Japan.","NikkajiRDF is described by standard ontologies, such as Chemical Information Ontology (CHEMINF) and Semanticscience Integrated Ontology (SIO). Some contents, such as Canonical SMILES, are not contained in the original Nikkaji. The users can perform SPARQL search by uploading the downloaded RDF into their own triplesore. SPARQL search for NikkajiRDF can be done by using J-GLOBAL knowledge (https://stirdf.jglobal.jst.go.jp/).",,,"""Openness of Nikkaji RDF data and integration of chemical information by Nikkaji acting as a hub. (written in Japanese)"",""Takahiro KIMURA, Tatsuya KUSHIDA"",""Journal of Information Processing and Management Vol. 58 (2015) No. 3 p. 204-212. (http://doi.org/10.1241/johokanri.58.204)"",,201502280673286170
+","Japan Science and Technology Agency (JST)","http://doi.org/10.18908/lsdba.nbdc01530-02-000
+",2005-03-31,2018-05-18,,,"Japan Existing Chemical Data Base (JECDB)
+Spectral Database for Organic Compounds (SDBS)
+Polymer Database (PoLyInfo)
+Kis-net (Written in Japanese)",,1,,,
+"Nikkaji-InChI Mapping Table",,"nbdc01530
+",10.18908/lsdba.nbdc01530-01-001.V004,"""Japan Science and Technology Agency (JST)"",,,,,,0
+",,"""Chemical Database""
+",,,"This is  mapping data of Nikkaji Number (chemical substances identifier), InChI, and InChIKey in Nikkaji (http://doi.org/10.15079/NIKKAJI) which is one of the largest chemical substances database in Japan.","InChI which was developed by IUPAC (International Union of Pure and Applied Chemistry) and NIST (National Institute of Standards and Technology) is a non-proprietary identifier for chemical substances. The InChIKey is a hashed version of the full InChI. Mapping between chemical database IDs may become easy by using InChI (InChIKey).",,,"""“Nikkaji Web” has been released."",""Yumiko TOMIKAWA, Mimiko KIMURA, Chikako MAEDA"",""Journal of Information Processing and Management Vol. 48 (2005) No. 4 p. 220-225. (http://doi.org/10.1241/johokanri.48.220)"",,200902296169308991
+""Openness of Nikkaji RDF data and integration of chemical information by Nikkaji acting as a hub"",""Takahiro KIMURA, Tatsuya KUSHIDA"",""Journal of Information Processing and Management Vol. 58 (2015) No. 3 p. 204-212. (http://doi.org/10.1241/johokanri.58.204)"",,201502280673286170
+","Japan Science and Technology Agency (JST)","http://doi.org/10.18908/lsdba.nbdc01530-01-000
+",2005-03-31,2018-03-28,,,"Japan Existing Chemical Data Base (JECDB)
+Spectral Database for Organic Compounds (SDBS)
+Polymer Database (PoLyInfo)
+Kis-net (Written in Japanese)",,1,,,
+"Oligonucleic Acid Drug Database",,"NBDC02343
+",10.18908/lsdba.nbdc02343-000.V002,"""Kazuhiko FUKUI"",""Molecular Profiling Research Center for Drug Discovery (molprof), The National Institute of Advanced Industrial Science and Technology (AIST)"",200901017295507576,read0120683,0000-0002-2482-848,200901100393125406,0
+""Takayuki Amemiya"",""Molecular Profiling Research Center for Drug Discovery (molprof), The National Institute of Advanced Industrial Science and Technology (AIST)"",201301008288078388,7000006267,,201550000116922145,0
+""Hiroshi Kouno"",""Molecular Profiling Research Center for Drug Discovery (molprof), The National Institute of Advanced Industrial Science and Technology (AIST) / Department of Applied Biological Science, Faculty of Science and Technology, Tokyo University of Science"",,,,,0
+",,"""Nucleic Acid Drug""
+",,,"DB is focused on nucleic acid drugs known as biopharmaceuticals and displayed approval drugs and information on three phases of clinical trial stage.","Clinical information of nucleic acid drugs is based from pharmaceutical companies and clinical information sites (https://clinicaltrials.gov/, https: //www.clinicaltrialsregister.eu/) . DB provides information on nucleic acid drugs that are being considered for future practical use (such as target diseases and related protein information).",,"Collaborative graduate school system",,"Molecular Profiling Research Center for Drug Discovery (molprof), The National Institute of Advanced Industrial Science and Technology (AIST)","https://medals.jp/druginfo.html
+",2018-03-16,2018-04-18,https://medals.jp/,,"DrugBank, UniProt, PDB",1,,,,
+"Open TG-GATEs",,"nbdc00954
+",10.18908/lsdba.nbdc00954-01-000,"""Toxicogenomics Project / Toxicogenomics Informatics Project"",""National Institute of Biomedical Innovation, National Institute of Health Sciences, and 15 pharmaceutical companies"",,,,,0
+",,"""Toxicogenomics Database""
+","""Rattus norvegicus"",10116
+""Homo sapiens"",9606
+",,"Toxicogenomics Project (TGP) is a government-private companies collaborative project started by the National Institute of Biomedical, the National Institute of Health Sciences, and 15 pharmaceutical companies in 2002. After 5 years of the project, 150 chemicals were administered to rats or exposed to rat and human primary cultured hepatocytes, and the gene expression profiles in the liver and kidney of the animal or in the cultured cells were comprehensively analyzed by microarray. As a result, a high-quality large-scale toxicogenomics database with the systems to analyze the gene expression data and predict the safety of candidate chemicals has been developed (TG-GATEs: Toxicogenomics Project-Genomics Assisted Toxicity Evaluation system）.
+
+Toxicogenomics Informatics Project (TGP2) is TGP's succeeding project, started by the National Institute of Biomedical, the National Institute of Health Sciences, and 13 pharmaceutical companies in 2007. After 5 years of the project, more than 30 safety biomarkers were develped by using TG-GATEs. In addition, data acquired to test biomarkers and analyse their mechanisms are included in TG-GATEs.
+
+Open TG-GATEs is a toxicogenomics database open to the public for researchers to utilize research results of TGP and TGP2, and releases the data of 170 compounds stored in TG-GATEs. In Open TG-GATEs, it is possible to search toxicogenomics data by compound name or pathological finding. It is also possible to download gene expression data associated with phenotype data such as pathological findings as a CEL file.
+
+CEL is one of the file formats that expresses gene expression data (raw data) generated from Affymetrix GeneChip?.","Searching toxicogenomics data by compound name or pathological finding.
+Downloading gene expression data associated with phenotype data such as pathological findings as a CEL file.","""- Health and Labour Sciences Research Grant (H14-Toxico-001 and H19-Toxico-001)
+- Collaborative research funds from participating companies."",200909096803808303,7
+",,,"Toxicogenomics Informatics Project, National Institute of Biomedical Innovation","http://toxico.nibiohn.go.jp/
+",2011-02-25,2012-01-18,http://wwwtgp.nibiohn.go.jp/,,,1,,,,
+"Open TG-GATEs Pathological Image Database",,"nbdc00954
+",10.18908/lsdba.nbdc00954-02-000,"""Toxicogenomics Project／Toxicogenomics Informatics Project"",""National Institute of Biomedical Innovation, National Institute of Health Sciences, and 15 pharmaceutical companies"",,,,,0
+",,"""Toxicogenomics Database""
+","""Rattus norvegicus"",10116
+",,"On the pathological image database, over 53,000 high-resolution whole slide digital pathological images of liver and kidney pathological specimens are open to the public. The specimens were obtained through animal tests using 160 compounds registered on Open TG-GATEs database. Therefore, you can look into the pathological findings registered on Open TG-GATEs database, with the pathological images.
+For further information on Open TG-GATEs database, please visit the LSDB archive website at http://dbarchive.biosciencedbc.jp/en/open-tggates/desc.html.","The pathological images can be viewed as zoomable digital slides.","""- Health and Labour Sciences Research Grant (H14-Toxico-001 and H19-Toxico-001)
+- Collaborative research funds from participating companies."",200909096803808303,7
+",,,"Toxicogenomics Informatics Project, National Institute of Biomedical Innovation","http://virtualslide.nibiohn.go.jp/Authenticate2.php
+",2012-03-30,2012-03-30,http://wwwtgp.nibiohn.go.jp/,,,1,,,,
+"PGDBj - Ortholog DB","Plant Genome Database Japan - Ortholog Database","nbdc01194
+",10.18908/lsdba.nbdc01194-02-000.V002,"""Akihiro Nakaya"",""Osaka University"",201101032925418574,nakaya_akihiro,,201550000299995022,1
+""Hisako Ichihara"",""Kazusa DNA Research Institute"",,,,201550000157748931,0
+""Erika Asamizu"",""Ryukoku University"",200901002859396764,read0141555,,200901100462838746,0
+""Hideki Hirakawa"",""Kazusa DNA Research Institute"",201501081279250007,kh15,,,0
+""Yasukazu Nakamura"",""Kazusa DNA Research Institute"",201001025273786718,yaskaz,,200901100313069420,0
+""Satoshi Tabata"",""Kazusa DNA Research Institute"",,,,200901100362040461,0
+","""Protein sequence databases - Protein domain databases; protein classification""
+",,"Viridiplantae,33090
+Cyanobacteria,1117
+",,"Orthology is a homologous relationship among genes derived from a common ancestor by speciation. Genes in such a relationship are referred to as orthologs or orthologous genes and provide important clues to clarify the process of genome evolution and to predict the divergence of gene function based on syntenic relationships among species. PGDBj Ortholog DB is a database that provides orthologous relationships of genes that are computationally determined according to similarities between amino acid sequences, and currently consists of 40 species of Viridiplantae (green plants) and 213 species of Cyanobacteria (blue-green algae).","PGDBj Ortholog DB is hierarchically organized to reflect evolutionary relationships among species and taxa. By connecting entries of multiple plant genome databases to this database, PGDBj Ortholog DB can work as a hub database and provide a way to gather and organize the relevant data in the databases. By submitting queries to the PGDBj Ortholog DB with keywords or amino acid sequences, users can obtain the list of the links to the relevant entries of the plant genome databases in relation to the functions and characteristics of genes across various species and taxa including both model plants and crop plants. Following the links obtained, users can retrieve the actual entries from the databases.","""This work has been supported by National Bioscience Database Center (NBDC) of Japan Science and Technology Agency (JST): Database Integration Coordination Program (FY2011-FY2013).
+https://biosciencedbc.jp/en/tec-dev-prog/rdprog-over/rdprog-over-integ#005"",201304098487795099,
+""This work has been supported by National Bioscience Database Center (NBDC) of Japan Science and Technology Agency (JST): Plant Genome DataBase Japan (PGDBj) for integration of plant genome-related resources and information(FY2014-FY2016).
+https://biosciencedbc.jp/en/tec-dev-prog/research-issue-in-progress/rdprog-over-integ-h24-26#005"",,
+",,"""Plant Genome DataBase Japan (PGDBj): A Portal Website for the Integration of Plant Genome-Related Databases"",""Erika Asamizu, Hisako Ichihara, Akihiro Nakaya, Yasukazu Nakamura, Hideki Hirakawa, Takahiro Ishii, Takuro Tamura, Kaoru Fukami-Kobayashi, Yukari Nakajima and Satoshi Tabata"",""Plant Cell Physiol (2014) 55 (1): e8."",24363285,
+""Plant Genome DataBase Japan (PGDBj)."",""Akihiro Nakaya, Hisako Ichihara, Erika Asamizu, Shirasawa Sachiko, Yasukazu Nakamura, Satoshi Tabata and Hideki Hirakawa"",""Methods Mol Biol (2017) 1533: 45-77."",27987164,
+","Kazusa DNA Research Institute","http://pgdbj.jp/pages/index.html?dir=&page=od&ln=en
+",2012,2016,http://pgdbj.jp/index.html?ln=en,http://pgdbj.jp/od2/download_33090.html,"NCBI RefSeq, NCBI Taxonomy
+Eucalyptus camaldulensis Genome Database
+Jatropha Genome Database
+Lotus japonicus Genome Sequencing Project
+Tomato SBM Database
+Trifolium pratense EST Index
+Chlamydomonas reinhardtii EST Index
+Lotus japonicus EST Index
+Arabidopsis thaliana EST Index
+Porphyra yezoensis EST Index
+MiBASE Micro-Tom Database
+The Rice Annotation Project Database (RAP-DB)
+Rice TOGO Browser
+The Rice Expression Profile Database (RiceXPro)
+SALAD Database
+The Arabidopsis Information Resource (TAIR)
+RIKEN Arabidopsis Genome Encyclopedia (RARGE)
+RIKEN Populus Database (RPOPDB)
+Triticeae Full-Length CDS Database (TriFLDB)
+KEGG/GENES
+PHYSCObase",1,1,,,
+"PGDBj Registered plant list, Marker list, QTL list, Plant DB link & Genome analysis methods","PGDBj Marker, Map and Basic Information","nbdc01194
+",10.18908/lsdba.nbdc01194-01-000.V003,"""Taeko Shibaya"",""Kazusa DNA Research Institute"",,,,200901100620862358,0
+""Hisako Ichihara"",""Osaka University"",200901085983169450,read0113129,,201550000157748931,0
+""Sachiko Shirasawa"",""Kazusa DNA Research Institute"",,,,,0
+""Erika Asamizu"",""Ryukoku University"",200901002859396764,read0141555,,200901100462838746,0
+""Yasukazu Nakamura"",""Kazusa DNA Research Institute"",201001025273786718,yaskaz,0000-0002-6782-5715,200901100313069420,0
+""Hideki Hirakawa"",""Kazusa DNA Research Institute"",201501081279250007,kh15,,201550000199155426,0
+""Akihiro Nakaya"",""Osaka University"",201101032925418574,nakaya_akihiro,,201550000299995022,0
+""Satoshi Tabata"",""Kazusa DNA Research Institute"",,,,200901100362040461,1
+",,"""Plant Databases""
+""Nucleotide Sequence Databases""
+""Genomics Databases (non-vertabrate)""
+""Database Catalog""
+",,"80 plants, genome sequencing and DNA marker development of which are advanced. Especially 65 plants (mainly horticultural crop) are included in the DNA marker and the QTL list.","DNA marker and gene map are used for useful gene identification with gene analysis, genome structure comparison and application researches such as marker selective breeding and DNA fingerprinting. We have selected 65 plants (mainly horticultural crop) and aggregated and marshalled their DNA markers (65 plants), QTLs related with important agronomic trait and gene maps (45 plants) from articles and other databases. We published the results in this database. We have also aggregated, marshalled and published basic information, gene analysis method and links to related web sites about 80 plants.","Information of DNA markers and QTLs are curated manually from the published literature. The marker information includes marker sequences, genotyping methods, population and linkage map, and the results of population genetic analyses. The QTL information includes the genetic effects, chromosomal positions, and LOD scores. Website links are classified according to the content (e.g. Genome database and Expression database). User can search information about DNA marker, QTL, and website links by keywords such as marker name, agricultural trait, and classification of website links.","""Database Integration Coordination Program (FY2011-FY2013) """"Integration of plant databases based on genome information"""" : National Bioscience Database Center (NBDC) of Japan Science and Technology Agency (JST)"",201304098487795099,
+""Database Integration Coordination Program (FY2014-FY2016) """"Plant Genome DataBase Japan (PGDBj) for integration of plant genome-related resources and information"""" : National Bioscience Database Center (NBDC) of Japan Science and Technology Agency (JST)"",,
+",,"""Plant Genome DataBase Japan (PGDBj): A Portal Website for the Integration of Plant Genome-Related Databases"",""Erika Asamizu, Hisako Ichihara, Akihiro Nakaya, Yasukazu Nakamura, Hideki Hirakawa, Takahiro Ishii, Takuro Tamura, Kaoru Fukami-Kobayashi, Yukari Nakajima and Satoshi Tabata"",""Plant Cell Physiol (2014) 55 (1): e8"",24363285,
+""Plant Genome DataBase Japan (PGDBj)"",""Akihiro Nakaya, Hisako Ichihara, Erika Asamizu, Shirasawa Sachiko, Yasukazu Nakamura, Satoshi Tabata and Hideki Hirakawa"",""Methods Mol Biol (2017) 1533: 45-77."",27987164,
+","Kazusa DNA Research Institute","http://pgdbj.jp/pages/index.html?dir=&page=mk&ln=en
+",2012,2017,http://pgdbj.jp/?ln=en,,,1,1,,,
+"Plabrain DB","Planarian Brain Database","nbdc01108
+",10.18908/lsdba.nbdc01108-000,"""Kiyokazu Agata"",""Kyoto University"",,,,,1
+""Kaneyasu Nishimura"",""Kyoto University"",,,,,0
+""Osamu Nishimura"",""Kyoto University"",,,,,0
+""Tetsutaro Hayashi"",""RIKEN Center for Developmental Biology"",,,,,0
+""Hiroshi Tarui"",""RIKEN Center for Developmental Biology"",,,,,0
+","""Microarray Data and other Gene Expression Databases""
+",,"""Dugesia japonica"",6161
+",,"Plabrain DB is a database for planarian nervous system analysis, including results of the gene expression profiling of single cells, the gene expression analysis by whole-mount in situ hybridization and the analysis by Immunohistochemical staining. This is the first case to release the result of gene expression analysis at the single-cell resolution by semi-quantitative single-cell RT-PCR (FBSC-PCR) method using FACS (Fluorescence Activated Cell Sorting) .","Plabrain DB is featured by the unique method which combines the semi-quantitative single-cell RT-PCR with FACS to analyze gene expression in single neurons.
+An article ""Planaria nervous system"" in Scholarpedia also provides information about this database.
+Some planarian whole-mount in situ hybridization images related to this database are available at a website of JT Biohitory Research Hall (Japanese version only).",,"The method of gene expression profiling of single cells was developed by Dr. Kiyokazu Agata at RIKEN Center for Developmental Biology. 
+Neural-specific gene analysis was supported by a Grant-in-Aid for Creative Scientific Research (Research Project Number: 17GS0318, Project Year: 2005-2009).","""Single-cell gene profiling utilizing FACS and its “index sorting” function for stem cell research"",""Tetsutaro Hayashi, Norito Shibata, Ryo Okumura, Tomomi Kudome, Osamu Nishimura, Hiroshi Tarui and Kiyokazu Agata"",""Dev Growth Differ., 52, 131-144 (2010)"",20078655,
+""Analysis of motor function modulated by cholinergic neurons in planarian Dugesia japonica"",""Kaneyasu Nishimura, Yoshihisa Kitamura, Takashi Taniguchi and Kiyokazu Agata"",""Neuroscience, 168, 18-30 (2010)"",20338223,201102252506930285
+""Planarians change their body size by maintaining a constant ratio of different cell types using stem cell system"",""Hiroyuki Takeda, Kaneyasu Nishimura and Kiyokazu Agata"",""Zoolog. Sci., 26, 805-813."",19968467,201002221648417593
+""Characterization of tyramine beta-hydroxylase in planarian Dugesia japonica: Cloning and expression"",""Kaneyasu Nishimura, Yoshihisa Kitamura, Takeshi Inoue, Yoshihiko Umesono, Kanji Yoshimoto, Takashi Taniguchi and Kiyokazu Agata"",""Dev Growth Differ., 52, 131-144 (2010)"",20078655,201302233642258728
+""Identification and distribution of tryptophan hydroxylase (TPH)-positive neurons in the planarian Dugesia japonica"",""Kaneyasu Nishimura, Yoshihisa Kitamura, Takeshi Inoue, Yoshihiko Umesono, Kanji Yoshimoto, Kosei Takeuchi, Takashi Taniguchi and Kiyokazu Agata"",""Neurosci. Res., 59, 101-106 (2007)"",17624455,200902251750412020
+""Reconstruction of dopaminergic neural network and recovery of behavioral function in planarian regenerates"",""Kaneyasu Nishimura, Yoshihisa Kitamura, Takeshi Inoue, Yoshihiko Umesono, Shozo Sano, Kanji Yoshimoto, Masatoshi Inden, Kazuyuki Takata, Takashi Taniguchi, Shun Shimohama and Kiyokazu Agata"",""Dev. Neurobiol., 67, 1059-1078 (2007)"",17565705,201102241288440066
+","Laboratory for Molecular Developmental Biology Department of Biophysics, Division of Biological Sciences, Graduate School of Science, Kyoto University",,,,,,,,,,,
+PLACE,"A Database of Plant Cis-acting Regulatory DNA Elements","nbdc00168
+",10.18908/lsdba.nbdc00168-000,"""Kenichi Higo"",""National Institute of Agrobiological Sciences"",,,,,0
+","""Plant databases""
+",,"Tracheophyta,58023
+",,"PLACE is a database of motifs found in plant cis-acting regulatory DNA elements based on previously published reports on vascular plants including the variations that have been identified in these motifs in other genes or in other plant species in later publications. The database also contains brief descriptions of individual motifs, literatures with PubMed links, and the corresponding accession numbers in the DDBJ/EMBL/GenBank.","Background and objectives
+
+A database of nucleotide sequence motifs found in plant cis-acting regulatory DNA elements (cis-elements) with tools for homology searches will be helpful in estimating the mode of gene regulation, regions involved in such regulation, and other pertinent regions in the DNA sequence. In order to provide a compilation of all reported cis-elements of higher plants, we constructed the PLACE database.
+
+Features and manner
+
+1. The cis-elements in this database including motif sequences, descriptions of major features, and references have been compiled by extensive survey of original literatures. Review articles on the regulatory regions of some plant genes were also used to obtain information on specific groups of motifs.
+2. The documents of individual motifs can be accessed by keyword search using a browser.
+3. The query sequence is searched by the Signal Scan program. The search can be initiated by copy and paste of the query sequence and the results are shown in a few seconds. The Signal Scan output is shown in one of three options:  a list of motifs in alphabetical order, a sequence map, and a list of motifs beginning at the 5' end of the query sequence.
+4. The document contains information on the PubMed ID and the GenBank accession number with corresponding links.
+
+Usefulness
+
+Experimental evidence for each motif is described in the ‘Reference Criteria’ (RC) field. Users of this database must be aware that the motifs compiled here were not strictly examined on this premise. Therefore users are advised to refer to the original reports of individual motifs before using any of the results obtained for publication.","""Development of Advanced Bio-Technology [Next generation recombinant], 1998 (1996-1998)"",,
+",,"""PLACE: A database on plant cis-acting regulatory DNA elements (A preliminary report)"",""Kenichi Higo*, Yoshihiro Ugawa and Masao Iwamoto"",""5th International Society for Plant Molecular Biology, 1997, Abst. #891"",,
+""PLACE: a database of plant cis-acting regulatory DNA elements"",""Kenichi Higo*, Yoshihiro Ugawa, Masao Iwamoto and Hiromi Higo"",""Nucleic Acids Research, 1998, Vol.26, No.1 :358-359"",9399873,200902180323508143
+""Plant cis-acting regulatory DNA elements (PLACE) database: 1999"",""Kenichi Higo*, Yoshihiro Ugawa, Masao Iwamoto and Tomoko Korenaga"",""Nucleic Acids Research, 1999, Vol.27, No.1 :297-300"",9847208,200902107129219646
+","National Institute of Agrobiological Sciences","http://www.dna.affrc.go.jp/PLACE/
+",1997-03-31,2007-01-08,http://agrid.dna.affrc.go.jp/cgi-bin/sogo.cgi?class=719&lang=en,,"PubMed
+GenBank",,1,,,
+PoSSuM,"Pocket Similarity Search using Multiple-Sketches","nbdc01144
+",10.18908/lsdba.nbdc01144-000,"""Kentaro Tomii"",""Tokyo Waterfront, the National Institute of Advanced Industrial Science and Technology (AIST)"",200901021923630070,read0205789,,201550000300179005,1
+","""Structure Databases - Small molecules""
+",,,,"PoSSuM is a database for detecting similar small-molecule binding sites on proteins. We have provided a service named PoSSuM drug search, in which we selected 194 approved drug compounds retrieved from ChEMBL, and detected their known binding pockets and pockets that are similar to them.",,,"Japan Society for the Promotion of Science (JSPS) [KAKENHI 23500374]; Grants-in-Aid for Scientific Research [25430186 and 25293079]; Platform for Drug Discovery, Informatics, and Structural Life Science from the Ministry of Education, Culture, Sports, Science and Technology, Japan; Grants-in-Aid for Scientific Research from the Ministry of Health, Labour and Welfare","""PoSSuM v.2.0: data update and a new function for investigating ligand analogs and target proteins of small-molecule drugs."",""Ito J, Ikeda K, Yamada K, Mizuguchi K, Tomii K."",""Nucleic Acids Res. DB issue 2015;43:D392-8."",25404129,
+""PoSSuM: a database of similar protein-ligand binding and putative pockets."",""Ito J, Tabei Y, Shimizu K, Tsuda K, Tomii K."",""Nucleic Acids Res. DB issue 2012;40:D541-8."",22135290,
+""PDB-Scale analysis of known and putative ligand binding sites with structural sketches."",""Ito J, Tabei Y, Shimizu K, Tomii K, Tsuda K."",""Proteins 2011;80:747-63."",22113700,
+""Single Versus Multiple Sorting for All Pairs Similarity Search."",""Tabei Y, Uno T, Sugiyama M, Tsuda K."",""The 2nd Asian Conference on Machine Learning (ACML2010) 2010."",0,
+","Artificial Intelligence Research Center (AIRC), The National Institute of Advanced Industrial Science and Technology (AIST) (https://www.aist.go.jp/index_en.html)","http://possum.cbrc.jp/PoSSuM/index.html
+",2011-11-01,2014-10-15,,,"PDB, UniProt, ChEMBL, EC, CATH, SCOPe, GO",1,1,,,
+PSCDB,"Protein Structural Change DataBase","nbdc01636
+",10.18908/lsdba.nbdc01636-000,"""Amemiya Takayuki"",""The Molecular Profiling Research Center for Drug Discovery (molprof), The National Institute of Advanced Industrial Science and Technology (AIST)"",201301008288078388,7000006267,,201550000116922145,0
+""Motonori Ota"",""Nagoya University"",200901037264166160,read0102070,,201550000256508462,0
+""Kidera Akinori"",""Yokohama City University"",200901093514214138,read0046933,,200901100461423933,0
+","""Structure Databases - Protein structure""
+",,,,"The purpose of this database is to represent the relationship between protein structural change and ligand binding. We classified protein structural changes into 7 classes, in terms of the ligand binding sites and the location where the dominant motion occurs.",,,,"""PSCDB: a database for protein structural change upon ligand binding."",""T. Amemiya, R. Koike, A. Kidera, and M. Ota."",""2012, Nucleic Acids Res., 40, D554-D558."",22080505,201102245216943042
+","Graduate School of Information Science Nagoya University","http://idp1.force.cs.is.nagoya-u.ac.jp/pscdb/
+",2011-11-13,2012-03-15,,,,1,,,,
+Q-TARO,"QTL Annotation Rice Online database","nbdc01234
+",10.18908/lsdba.nbdc01234-000,"""Junichi Yonemaru"",""National Institute of Agrobiological Sciences"",,,,,0
+","""Nucleotide Sequence Databases""
+",,"""Oryza sativa"",4530
+",,"This is a database of Rice QTL information extracted from published research papers.
+From 1214 reports, we selected 5096 QTLs. The positions of these QTLs were estimated from the physical positions of either two flanking markers (the genomic positions of the distal ends of the two markers) or a co-segregated single marker (between the start and end positions on the genome). If the QTLs were isolated by map-based cloning, the position of the BAC/PAC clone or gene locus was used. By screening for redundancy of traits at the same physical positions, as of March 31 of 2008, we selected 1051 QTLs extracted from 463 reports as representative QTLs. To arrange QTL information, we constructed QTL database (QTL Annotation Rice Online database; Q-TARO, http://qtaro.abr.affrc.go.jp/) consists of two web interfaces. One interface is a table containing information on the mapping of each QTL and its genetic parameters. The other interface is a genome viewer for viewing genomic locations of the QTLs. Currently, update of QTL information is not continued.","Over the past two decades, genetic dissection of complex phenotypes of economic and biological interest has revealed the chromosomal locations of many quantitative trait loci (QTLs) in rice and their contributions to phenotypic variation. Mapping resolution has varied considerably among QTL studies, owing to differences in population size and number of DNA markers used. Additionally, the same QTLs have often been reported with different locus designations. This situation has made it difficult to determine allelic relationships among QTLs and to compare their positions. To facilitate reliable comparisons of rice QTLs, we extracted QTL information from published research papers and constructed a database of 1051 representative QTLs, which we classified into 21 trait categories. Q-TARO clearly displays the co-localization of QTLs and distribution of QTL clusters on the rice genome.","""Integrated Research Project for Plant, Insect and Animal using Genome Technology, QT-1006"",200902278543564818,
+""Genomics for Agricultural Innovation, GIR-1003"",201402275902165283,
+","This work was supported by a grant from the Ministry of Agriculture, Forestry and Fisheries of Japan (Integrated Research Project for Plant, Insect and Animal using Genome Technology, QT-1006, and Genomics for Agricultural Innovation, GIR-1003).","""Q-TARO: QTL Annotation Rice Online Database"",""Jun-ichi Yonemaru, Toshio Yamamoto, Shuichi Fukuoka, Yusaku Uga, Kiyosumi Hori, Masahiro Yano"",""Rice, September 2010, Volume 3, Issue 2-3, pp 194-203"",,201302271335420479
+","National Institute of Agrobiological Sciences","http://qtaro.abr.affrc.go.jp/
+",2009-11-15,2010-06-01,http://agrid.dna.affrc.go.jp/cgi-bin/sogo.cgi?class=719&lang=en,,,1,1,,,
+RED,"Rice Expression Database","nbdc00315
+",10.18908/lsdba.nbdc00315-000,"""Shoshi Kikuchi"",""National Institute of Agrobiological Sciences"",200901036690986909,read0006027,,200901100360463187,0
+","""Plant databases - Rice""
+","""Microarray, Gene Expression""
+","""Oryza sativa"",4530
+",,"The Rice Expression Database (RED) is a database that aggregates the gene expression data that has been analyzed using 8987EST array in the Microarray Project that was underway as part of the Rice Genome Project. RED holds raw and normalized data from expression profiles obtained by the Rice Microarray Project and other research groups.","If you are interested in a particular research subject, can find the appropriate ""Research ID"" from the red_subject_info table. You will then get the experimental data for the selected research.
+Also, you can find the Accession number for a particular gene from the red_est table. Then, you will then get expression profiles under various experimental conditions against results of Array-BLAST.","""Analysis of gene functions in the rice genome by using the gene expression monitoring technique (commonly called as """"the Microarray project"""") (1999-2003)"",,5
+",,"""Rice Expression Database: the gateway to rice functional genomics"",""Junshi Yazaki, Naoki Kishimoto, Masahiro Ishikawa and Shoshi Kikuchi"",""Trends in Plant Science (2002) Dec 7 (12):563-564"",,201102151520048780
+","National Institute of Agrobiological Sciences","http://red.dna.affrc.go.jp/RED/
+",2000-10-01,,http://agrid.dna.affrc.go.jp/,,DDBJ,1,1,,,
+"RED II INAHO","Rice Expression Database II INAHO","nbdc01557
+",10.18908/lsdba.nbdc01557-000,"""Shoshi Kikuchi"",""National Institute of Agrobiological Sciences"",200901036690986909,read0006027,,200901100360463187,0
+","""Plant databases - Rice""
+","""Microarray, Gene Expression""
+","""Oryza sativa"",4530
+",,"The Rice Expression Database II INAHO (RED II INAHO) is a database that analyzed the gene expression of rice using a 60-mer oligonucleotide microarray to examine transcriptional profiling of genes responsive to abscisic acid and gibberellin in rice.","You can get the experimental data from the redii_inaho_experiment table. Also, you can find the Accession number for a particular gene from the redii_inaho_probe table. Then, you will then get expression profiles under various experimental conditions against results of Array-BLAST.
+ 
+References:
+Yazaki J, Kishimoto N, Nagata Y, Ishikawa M, Fujii F, Hashimoto A, Shimbo K, Shimatani Z, Kojima K, Suzuki K, Yamamoto M, Honda S, Endo A, Yoshida Y, Sato Y, Takeuchi K, Toyoshima K, Miyamoto C, Wu J, Sasaki T, Sakata K, Yamamoto K, Iba K, Oda T, Otomo Y, Murakami K, Matsubara K, Kawai J, Carninci P, Hayashizaki Y, Kikuchi S.
+Genomics approach to abscisic acid- and gibberellin-responsive genes in rice.
+DNA Res. 2003 Dec 31;10(6):249-61.
+PMID: 15029956
+ 
+Yazaki J, Shimatani Z, Hashimoto A, Nagata Y, Fujii F, Kojima K, Suzuki K, Taya T, Tonouchi M, Nelson C, Nakagawa A, Otomo Y, Murakami K, Matsubara K, Kawai J, Carninci P, Hayashizaki Y, Kikuchi S.
+Transcriptional profiling of genes responsive to abscisic acid and gibberellin in rice: phenotyping and comparative analysis between rice and Arabidopsis.
+Physiol Genomics. 2004 Apr 13;17(2):87-100.
+PMID: 14982972","""Phase 2 of Rice Genome Research Project (1998-2004)"",,5
+",,,"National Institute of Agrobiological Sciences","http://red.dna.affrc.go.jp/INAHO/
+",2009-04-01,2009-04-01,http://agrid.dna.affrc.go.jp/,,DDBJ,1,1,,,
+"RGP caps","RGP: 332 PCR-based genetic markers on rice chromosomes","nbdc00318
+",10.18908/lsdba.nbdc00318-05-000,"""Kimiko Yamamoto"",""National Institute of Agrobiological Sciences"",,,,,0
+""Jianzhong Wu"",""National Institute of Agrobiological Sciences"",,,,,0
+""Takuji Sasaki"",""National Institute of Agrobiological Sciences"",,,,,1
+","""Plant databases - Rice""
+","Sequence
+""PCR-based marker""
+","""Oryza sativa"",4530
+",,"We have developed 332 PCR-based genetic markers including 161 sequence tagged site (STS) markers and 171 cleaved amplified polymorphic sequence (CAPS) markers.This site shows all information for these markers.","The table (chr 1 to chr 12) summarizes all information for STS and CAPS markers, such as chromosomal location, primer sequences, size of amplified fragment (Nipponbare), restriction enzyme, etc. These markers have been developed to detect polymorphism between Nipponbare (japonica) and Kasalath (indica). Although detection of polymorphism of these markers will depend on the combination of varieties or lines, they may be used for the analysis of other combinations.
+Because this archive has been created based on the following data of the last update date, it may not match the data in the current situation.","""Phase 2 of Rice Genome Research Project (1998-2004)"",,5
+",,,"National Institute of Agrobiological Sciences","http://rgp.dna.affrc.go.jp/E/publicdata/caps/index.html
+",2002-02-10,2002-02-10,http://rgp.dna.affrc.go.jp/E/,,,1,,,,
+"RGP estmap2001","RGP : A YAC-Based Rice Transcript Map Containing 6591 EST Sites","nbdc00318
+",10.18908/lsdba.nbdc00318-04-000,"""Jianzhong Wu"",""National Institute of Agrobiological Sciences"",,,,,0
+""Takashi Matsumoto"",""National Institute of Agrobiological Sciences"",,,,,0
+""Takuji Sasaki"",""National Institute of Agrobiological Sciences"",,,,,1
+","""Plant databases - Rice""
+","Genome
+Sequence
+","""Oryza sativa"",4530
+",,"This database provides the information about the YAC-based rice transcript map (Wu et al, Plant Cell 14, 2002), containing 6591 EST sites that was used for the map construction.","We provide the detailed contents of the YAC-based rice transcript map with the following tables and figures (together Microsoft Excel format and pdf format for your download). Tables contain the detailed results of PCR-based YAC screening with the clone-specific EST primers. Figures contain the rice genetic and YAC physical maps with the assigned EST sites.
+Because this archive has been created based on the following data of the last update date, it may not match the data in the current situation.","""Phase 2 of Rice Genome Research Project (1998-2004)"",,5
+",,"""A comprehensive rice transcript map containing 6591 expressed sequence tag sites."",""Wu J, Maehara T, Shimokawa T, Yamamoto S, Harada C, Takazaki Y, Ono N, Mukai Y, Koike K, Yazaki J, Fujii F, Shomura A, Ando T, Kono I, Waki K, Yamamoto K, Yano M, Matsumoto T, Sasaki T."",""The Plant Cell / 2002 Mar / 14(3):525-535"",11910001,200902141547705232
+","National Institute of Agrobiological Sciences","http://rgp.dna.affrc.go.jp/E/publicdata/estmap2001/index.html
+",2002-02-16,2002-02-16,http://rgp.dna.affrc.go.jp/E/,,"MAFF_Rice cDNA Clone
+DDBJ",1,,,,
+"RGP gmap","RGP : RICE GENETIC MAP IN NATURE GENETICS","nbdc00318
+",10.18908/lsdba.nbdc00318-01-000,"""Yuzo Minobe"",""National Institute of Agrobiological Sciences"",,,,,1
+""Nori Kurata"",""National Institute of Agrobiological Sciences"",,,,,0
+""Yoshiaki Nagamura"",""STAFF Institute"",,,,,0
+""Masahiro Yano"",""National Institute of Agrobiological Sciences"",,,,,0
+""Takuji Sasaki"",""National Institute of Agrobiological Sciences"",,,,,0
+","""Plant databases - Rice""
+","""Sequence, Gene Expression""
+","""Oryza sativa"",4530
+",,"RICE GENETIC MAP IN NATURE GENETICS is a database of 1381 DNA markers that were used to create the rice genetic map. The rice genetic map is published in the Nature Genetics volume 8, 365-372, December 1994.","The rice genetic map consists of 1381 RFLP markers (1993 version) mapped on a Nipponbare (japonica) and a Kasalath (indica) F2 intercross.
+Because this archive has been created based on the following data of the last update date, it may not match the data in the current situation.","""Phase 1 of Rice Genome Research Project (1991-1997)"",,5
+",,"""A 300 kilobase interval genetic map of rice including 883 expressed sequences"",""N. Kurata, Y. Nagamura, K. Yamamoto, Y. Harushima, N. Sue, J. Wu, B.A. Antonio, A. Shomura, T. Shimizu, S-Y. Lin, T. Inoue, A. Fukuda, T. Shimano, Y. Kuboki, T. Toyama, Y. Miyamoto, T. Kirihara, K. Hayasaka, A. Miyao, L. Monna, H.S. Zhong, Y. Tamura, Z-X. Wang, T. Momma, Y. Umehara, M. Yano, T. Sasaki, Y. Minobe"",""Nature Genetics, 8: 365-372 (1994)"",7894488,200902160772912713
+","National Institute of Agrobiological Sciences","http://rgp.dna.affrc.go.jp/E/publicdata/naturegenetics/ricegmap.html
+",1994-08-08,1995-09-26,http://rgp.dna.affrc.go.jp/E/,http://rgp.dna.affrc.go.jp/pub/gmap/naturegenetics/,DDBJ,1,,,,
+"RGP gmap2000","RGP: The Latest High-Density Rice Genetic Map, Including 3267 Markers","nbdc00318
+",10.18908/lsdba.nbdc00318-03-000,"""Yoshiaki Harushima"",""STAFF Institute"",,,,,0
+""Nori Kurata"",""National Institute of Agrobiological Sciences"",,,,,0
+""Yoshiaki Nagamura"",""STAFF Institute"",,,,,0
+""Masahiro Yano"",""National Institute of Agrobiological Sciences"",,,,,0
+""Takuji Sasaki"",""National Institute of Agrobiological Sciences"",,,,,1
+","""Plant databases - Rice""
+","Genome
+Sequence
+","""Oryza sativa"",4530
+",,"We provide here the 2000 version of linkage map, which consists of 3267 RFLP marker information including nearly 1000 new RFLP markers which was produced after our high-density RFLP linkage map publication of 1998.","The data are shown in a table for each of the 12 chromosomes. The tables include the map position from the telomeric end of the short arm of each chromosome (genetic distance in cM), the marker name, and (where available) DDBJ accession numbers of the sequences of both the 5' and 3' ends of insert fragments of the probes used in the RFLP analysis.
+Because this archive has been created based on the following data of the last update date, it may not match the data in the current situation.","""Phase 2 of Rice Genome Research Project (1998-2004)"",,5
+",,,"National Institute of Agrobiological Sciences","http://rgp.dna.affrc.go.jp/E/publicdata/geneticmap2000/index.html
+",2000-11-30,2000-11-30,http://rgp.dna.affrc.go.jp/E/,,"MAFF_Rice cDNA Clone
+DDBJ",1,,,,
+"RGP gmap98","RGP: A HIGH-DENSITY RICE GENETIC MAP","nbdc00318
+",10.18908/lsdba.nbdc00318-02-000,"""Yoshiaki Harushima"",""STAFF Institute"",,,,,0
+""Nori Kurata"",""National Institute of Agrobiological Sciences"",,,,,0
+""Yoshiaki Nagamura"",""STAFF Institute"",,,,,0
+""Masahiro Yano"",""National Institute of Agrobiological Sciences"",,,,,0
+""Takuji Sasaki"",""National Institute of Agrobiological Sciences"",,,,,1
+","""Plant databases - Rice""
+","Genome
+Sequence
+","""Oryza sativa"",4530
+",,"According to the publication of our high-density RFLP linkage map in the journal ""Genetics"" (January 1998), we provide here a large amount of relevant data that can not be published in the form of a printed paper.","The rice genetic map consists of 2275 RFLP markers mapped on a Nipponbare (japonica) and a Kasalath (indica) F2 intercross. The data includes isozyme loci and a table linked with parental Southern images of each probe and Nucleotide sequence, and other related clone information. The table also includes the results of similarity search of mapped clones. Because this archive has been created based on the following data of the last update date, it may not match the data in the current situation.","""Phase 1 of Rice Genome Research Project (1991-1997)"",,5
+""Phase 2 of Rice Genome Research Project (1998-2004)"",,5
+",,"""A High-Density Rice Genetic Linkage Map with 2275 Markers Using a Single F2 Population"",""Y Harushima, M Yano, A Shomura, M Sato, T Shimano, Y Kuboki, T Yamamoto, S Y Lin, B A Antonio, A Parco, H Kajiya, N Huang, K Yamamoto, Y Nagamura, N Kurata, G S Khush, and T Sasaki"",""Genetics January 1, 1998 vol.148 no.1 479-494"",9475757,200902197633285071
+","National Institute of Agrobiological Sciences","http://rgp.dna.affrc.go.jp/E/publicdata/geneticmap98/geneticmap98.html
+",1998-01-17,1998-01-17,http://rgp.dna.affrc.go.jp/E/,http://rgp.dna.affrc.go.jp/pub/geneticmap98/,DDBJ,1,,,,
+"RGP physicalmap","Rice Genome Mapping and Sequencing Data from RGP, STAFF/NIAR, Japan","nbdc00318
+",10.18908/lsdba.nbdc00318-06-000,"""Yosuke Umehara"",""National Institute of Agrobiological Sciences"",,,,,0
+""Nori Kurata"",""National Institute of Agrobiological Sciences"",,,,,0
+""Takuji Sasaki"",""National Institute of Agrobiological Sciences"",,,,,1
+","""Plant databases - Rice""
+","Sequence
+""Physical map""
+","""Oryza sativa"",4530
+",,"This site contains a physical map information of rice using yeast artificial chromosome (YAC) clones selected with the Rice Genome Research Program (RGP) DNA markers from 1994 through 1997 version. A rice YAC library of RGP was constructed from cultured cells of Oryza sativa L. cv. Nipponbare and contains 6934 clones with 350 kb average insert length.","You can see the data files of yeast artificial chromosome (YAC) clones by figures and tables, which clones were selected with DNA markers in the Rice Genome Research Program (RGP) for each chromosome. In the tables, YAC clones selected with RGP DNA markers for each chromosome are shown along with the markers and the genetic distances. In the figures, the YAC physical maps of each divided region on the chromosomes are shown.
+Because this archive has been created based on the following data of the last update date, it may not match the data in the current situation.","""Phase 1 of Rice Genome Research Project (1991-1997)"",,5
+",,"""Construction and characterization of a rice YAC library for physical mapping"",""Yosuke Umehara, Akiko Inagaki, Hiroshi Tanoue, Yuji Yasukochi, Yoshiaki Nagamura, Shoko Saji, Yoshiaki Otsuki, Tatsuhito Fujimura, Nori Kurata, Yuzo Minobe"",""Molecular Breeding (1995) 1(1): 79-89."",,201102160412318215
+""A 300 kilobase interval genetic map of rice including 883 expressed sequences"",""N. Kurata, Y. Nagamura, K. Yamamoto, Y. Harushima, N. Sue, J. Wu, B.A. Antonio, A. Shomura, T. Shimizu, S-Y. Lin, T. Inoue, A. Fukuda, T. Shimano, Y. Kuboki, T. Toyama, Y. Miyamoto, T. Kirihara, K. Hayasaka, A. Miyao, L. Monna, H.S. Zhong, Y. Tamura, Z-X, Wang, T. Momma, Y. Umehara, M. Yano, T. Sasaki and Y. Minobe"",""Nature Genetics (1994) 8: 365-372."",7894488,200902160772912713
+""Physical Mapping of Rice Chromosome 1 with Yeast Artificial Chromosomes (YACs)"",""Zi-Xuan Wang, Atsuko Idonuma, Yosuke Umehara, Wim Van Houten, Ikuo Ashikawa, Yuzo Minobe, Nori Kurata and Takuji Sasaki"",""DNA Research (1996) 3(5): 291-296."",9039498,200902157484906589
+""Yeast Artificial Chromosome Clones of Rice Chromosome 2 Ordered Using DNA Markers"",""Yosuke Umehara, Nori Kurata, Ikuo Ashikawa and Takuji Sasaki"",""DNA Research (1997) 4(2): 127-131."",9205839,200902176636764127
+""Ordered YAC Clone Contigs Assigned to Rice Chromosomes 3 and 11"",""Hiroshi Tanoue, Takanori Shimokawa, Jianzhong Wu, Norio Sue, Yosuke Umehara, Ikuo Ashikawa, Nori Kurata and Takuji Sasaki"",""DNA Research (1997) 4(2): 133-140."",9205840,200902147422655711
+""Physical Mapping of Rice Chromosomes 4 and 7 Using YAC Clones"",""Kazuhiro Koike, Katsuhiko Yoshino, Norio Sue, Yosuke Umehara, Ikuo Ashikawa, Nori Kurata and Takuji Sasaki"",""DNA Research (1997) 4(1): 27-33."",9179493,200902152416086563
+""Construction of YAC Contigs on Rice Chromosome 5"",""Shoko Saji, Yosuke Umehara, Nori Kurata, Ikuo Ashikawa and Takuji Sasaki"",""DNA Research (1996) 3(5): 297-302."",9039499,200902133976765070
+""An ordered yeast artificial chromosome library covering over half of rice chromosome 6"",""Y Umehara, H Tanoue, N Kurata, I Ashikawa, Y Minobe, and T Sasaki"",""Genome Research (1996) 6(10): 935-942."",8908512,200902114514925426
+""Physical mapping of rice chromosomes 8 and 9 with YAC clones"",""Baltazar A. Antonio, Makiko Emoto, Jianzhong Wu, Ikuo Ashikawa, Yosuke Umehara, Nori Kurata and Takuji Sasaki"",""DNA Research (1996) 3(6): 393-400."",9097041,200902132773353811
+""Assignment of YAC Clones Spanning Rice Chromosomes 10 and 12"",""Takanori Shimokawa, Nori Kurata, Jianzhong Wu, Yosuke Umehara, Ikuo Ashikawa and Takuji Sasaki"",""DNA Research (1996) 3(6): 401-406."",9097042,200902132373997140
+","National Institute of Agrobiological Sciences","http://rgp.dna.affrc.go.jp/E/publicdata/physicalmap/physicalmap.html
+",1997-07-09,1998-08-24,http://rgp.dna.affrc.go.jp/E/,,DDBJ,1,,,,
+RMG,"Rice Mitochondrial Genome","nbdc00193
+",10.18908/lsdba.nbdc00193-000,"""Kouichi Kadowaki"",""National Agriculture and Food Research Organization"",,,,,0
+","""Nucleotide Sequence Databases""
+",,"""Oryza sativa Japonica Group"",39947
+",,"This database contains information on the rice mitochondrial genome. You can refer entire sequence of rice mitochondrial genome and information on the analysis results.","The mitochondrial genome information can be used as standard for analysis of the mitochondria of major cereal crops such as corn and wheat as well as other monocotyledonous plants.","""""""Pioneer Research Project"""" (2001-2003) of the National Institute of Agrobiological Sciences"",,
+""""""Grant-in-Aid for Scientific Research""""  (2001-2003) of the University of Tokyo"",,
+","This database was constructed using the research results of the National Institute of Agrobiological Sciences and the University of Tokyo.","""The complete sequence of the rice (Oryza sativa L.) mitochondrial genome: frequent DNA sequence acquisition and loss during the evolution of flowering plants."",""Notsu Y, Masood S, Nishikawa T, Kubo N, Akiduki G, Nakazono M, Hirai A, Kadowaki K."",""Mol Genet Genomics (2002) 268: 434?445"",12471441,200902106776080041
+","National Institute of Agrobiological Sciences","http://rmg.rice.dna.affrc.go.jp/
+",2002-09-25,2002-09-25,http://agrid.dna.affrc.go.jp/cgi-bin/sogo.cgi?class=719&lang=en,,,1,,,,
+RMOS,"Rice Microarray Opening Site","nbdc00194
+",10.18908/lsdba.nbdc00194-000,"""Shoshi Kikuchi"",""National Institute of Agrobiological Sciences"",,,,,0
+","""Plant databases - Rice""
+""Microarray Data and other Gene Expression Databases""
+",,"""Oryza sativa"",4530
+",,"The Rice Microarray Opening Site is a database of comprehensive information for Rice Microarray Project (April 1999 - March 2003). Microarray is the powerful tool for understanding comprehensive gene expression at genome-wide level (for details, refer to the Technical Background Section). By using this system, it has become possible to isolate the genes quickly that confer resistances or are responsive to cold temperature, drought, unsuitable soil condition, insect pest and disease, etc. It has become possible by using this system to begin to quickly isolate the genes that confer such resistance. Also it has become possible to isolate which genes are expressed in particular tissues and organs.","You can refer to the information of the general background for Microarray techniques and the research data related to the custom microarray we developed.","""Analysis of gene functions in the rice genome by using the gene expression monitoring technique (commonly called as """"the Microarray project"""") (1999-2003)"",,5
+",,"""Chapter 2  Comprehensive Analysis of Rice Gene Expression Using the Microarray System: What We have Learned from the Microarray Project"",""S.Kikuchi J. Yazaki N. Kishimoto M. ishikawa D. Endo"",""Rice Improvement in the Genomics Era, edited by Swapan K. Datta, CRC Press  NY, 2009, pp.15-58, ISBN 978-1-56022-952-0"",,
+","National Institute of Agrobiological Sciences
+*The original website was terminated.",,2001-01-12,2004-03-16,http://agrid.dna.affrc.go.jp/cgi-bin/sogo.cgi?class=719&lang=en,,"Rice Expression Database (RED)
+Rice full-length cDNA Database (KOME)
+Rice Genome Integrated Map Database (INE)
+Rice Mutant Panel Database (Tos17)
+Rice Genome Annotation Database (RiceGAAS)
+Plant Cis-Element motif search Database (PLACE)
+Rice Proteome Database (RPD)
+NIAS DNA Bank",1,1,,,
+RPD,"Rice Proteome Database","nbdc00191
+",10.18908/lsdba.nbdc00191-000,"""Setsuko Komatsu"",""National Institute of Crop Science, National Agriculture and Food Research Organization"",200901069795436691,read0004407,,200901100492668861,0
+","""Proteomics Resources""
+""Plant databases - Rice""
+",,"""Oryza sativa"",4530
+",,"Rice Proteome Database contains information on proteins identified from several organs and organelles on two-dimensional polyacrylamide gel electrophoresis (2D-PAGE) reference maps.","Proteins extracted from organs and subcellular compartments in rice on various growing stages were separated by 2D-PAGE. Based on 23 reference maps of 2D-PAGE, each of the proteins was purified and sequenced by gas-phase protein sequencer or mass spectrometry.
+14724 identified proteins were mapped by 2D-PAGE. The information on 6011 proteins (e.g. Mw, pI, expression, the amino acid sequence and the result of homology searches) was cataloged and entered in the Rice Proteome Database.
+The database is searchable by keyword, accession number, protein name, pI, Mw and amino acid sequence, or by selection of a spot on one of the 2D-PAGE maps. Cross-references are provided to tools for proteomics and to other databases.","""Analysis and database construction for tissue-specific and subcellular-localized proteins from rice."",,
+",,"""Rice proteome database: a step toward functional analysis of the rice genome."",""Komatsu S."",""Plant Mol Biol. 2005 Sep;59(1):179-90."",16217611,200902229284654322
+""Rice proteomics: a step toward functional analysis of the rice genome."",""Komatsu S, Konishi H, Shen S, Yang G."",""Mol Cell Proteomics. 2003 Jan;2(1):2-10."",12601077,
+""Rice Proteome Database based on two-dimensional polyacrylamide gel electrophoresis: its status in 2003."",""Komatsu S, Kojima K, Suzuki K, Ozaki K, Higo K."",""Nucleic Acids Res. 2004 Jan 1;32(Database issue):D388-92."",14681440,200902281698589729
+""Proteomics of the rice cell: systematic identification of the protein populations in subcellular compartments."",""Tanaka N, Fujita M, Handa H, Murayama S, Uemura M, Kawamura Y, Mitsui T, Mikami S, Tozawa Y, Yoshinaga T, Komatsu S."",""Mol Genet Genomics. 2004 Jun;271(5):566-76. Epub 2004 Apr 7."",15069638,200902274762902596
+""Proteome analysis of rice tissues by two-dimensional electrophoresis: an approach to the investigation of gibberellin regulated proteins."",""Tanaka N, Konishi H, Khan MM, Komatsu S."",""Mol Genet Genomics. 2004 Jan;270(6):485-96. Epub 2003 Nov 21."",14634867,200902249762505010
+""Update and challenges on proteomics in rice."",""Komatsu S, Yano H."",""Proteomics. 2006 Jul;6(14):4057-68."",16786487,201102204445147847
+","National Institute of Agrobiological Sciences","http://gene64.dna.affrc.go.jp/RPD/
+",2003-01-07,2004-04-01,http://agrid.dna.affrc.go.jp/,,"KOME, NCBI",1,1,,,
+RPSD,"Rice Protein Structure Database",,10.18908/lsdba.nbdc00749-000,"""Toshimasa Yamazaki"",""National Institute of Agrobiological Sciences"",,,,,0
+","""Structure Databases - Protein structure""
+",,"""Oryza sativa"",4530
+""Sorghum bicolor"",4558
+""Zea mays"",4577
+""Hordeum vulgare"",4513
+""Triticum aestivum"",4565
+""Arabidopsis thaliana"",3702
+""Glycine max"",3847
+",,"We have determined the three-dimensional structures of the protein of seven kinds of plants such as rice, and have put together the result and related informations. This database contains the basic information of the protein, that assumed Protein Data Bank a source of information, experimental methods used for the structure determination, literature information, sequence, the image of the three-dimensional structures, and so on.","A purpose of this study is to elucidate the correlation of ""the three-dimensional structures and a function and phenotype of the protein"" and the mechanisms of functional expression of the protein, in the resolving power of the atomic level, about the gene which is assumed to be important academically or agriculturally and industrially, utilizing  gene information, full-length cDNA, and so on, which was provided by the rice genome project, for general elucidation of the rice plant function and development of a policy to use a useful gene effectively. In this site, you can search the three-dimensional structures of the protein listed by each plant.","""An isolation and function elucidation using structure analysis of the protein (2002-2004, National Institute of Agrobiological Science (NIAS))"",,
+",,,"National Institute of Agrobiological Sciences
+*The original website is unavailable.",,,2005-02-14,http://agrid.dna.affrc.go.jp/cgi-bin/sogo.cgi?class=719&lang=en,,"ENA
+InterPro
+MaizeGDB
+PDBj
+PROSITE
+Pfam
+SGD
+SWISS-2DPAGE",1,,,,
+SAHG,"Structure Atlas of Human Genome","nbdc01193
+",10.18908/lsdba.nbdc01193-000,"""Chie Motono"",""The Molecular Profiling Research Center for Drug Discovery (molprof), The National Institute of Advanced Industrial Science and Technology (AIST)"",200901023364660748,read0205706,,201550000272613160,1
+""Motonori Ota"",""Graduate School of Information Sciences, Nagoya University"",200901037264166160,read0102070,,201550000256508462,0
+","""Structure Databases - Protein structure""
+""Human and other Vertebrate Genomes - Human ORFs""
+""Protein sequence databases - Protein properties""
+",,"""Homo sapiens"",9606
+",,"All of the Open Reading Frames in the human genome are subjected to a fully automated, exhaustive protein-structure-prediction pipeline to generate protein structure models. SAHG contains 42,577 domain-structure models in ~24900 unique human protein sequences from the RefSeq database.","SAHG is distinct in that the prediction pipeline is focus on proteins of higher organisms, and in that conformational changes of proteins were predicted and displayed as animated image.","""JST, BIRD (Institute for Bioinformatics Research and Development)"",200904072106278644,24
+",,"""SAHG, a comprehensive database of predicted structures of all human proteins"",""Chie Motono, Junichi Nakata, Ryotaro Koike, Kana Shimizu, Matsuyuki Shirota, Takayuki Amemiya, Kentaro Tomii, Nozomi Nagano, Naofumi Sakaya, Kiyotaka Misoo, Miwa Sato, Akinori Kidera, Hidekazu Hiroaki, Tsuyoshi Shirai, Kengo Kinoshita, Tamotsu Noguchi, Motonori Ota"",""Nucleic Acids Research, 2011, Vol. 39,"",21051360,201302277936997356
+","The Molecular Profiling Research Center for Drug Discovery (molprof), The National Institute of Advanced Industrial Science and Technology (AIST)
+* The original website was terminated.","http://bird.cbrc.jp/sahg
+",2009-10,2010-06-25,,,"RefSeq, HPRD, EzCatDB, InterPro, UniProtKB/Swiss-Prot",1,1,1,,
+"Silkworm, Bombyx mori, reference transcriptome data",,,10.18908/lsdba.nbdc02443-000,"""Kakeru Yokoi"",""Institute of Agrobiological Sciences, National Agriculture and Food Research Organization /Research Center for Agricultural Information Technology , National Agriculture and Food Research Organization"",201601001045274446,yokoi123,0000-0002-6672-5341,201550000172237668,0
+""Takiuya Tsubota"",""Institute of Agrobiological Sciences, National Agriculture and Food Research Organization"",201601015490172468,tsubotat,,201550000253250162,0
+""Jianqiang Sun"",""Research Center for Agricultural Information Technology , National Agriculture and Food Research Organization"",201801007625397785,jsun,,201550000062356114,0
+""Akiya Jouraku"",""Institute of Agrobiological Sciences, National Agriculture and Food Research Organization"",200901042192377105,read0164867,,201550000042610677,0
+""Hideki sezutsu"",""Institute of Agrobiological Sciences, National Agriculture and Food Research Organization"",201601015211752069,sezutsu,,200901100331375350,0
+""Hidemasa Bono"",""Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems"",200901083788745339,bonohu,0000-0003-4413-0651,201401171089187777,0
+","""Microarray Data and other Gene Expression Databases""
+","Annotation
+","""Bombyx mori"",7091
+",,"The data collection contain Bombyx mori reference transcriptomic data and related data. The reference transcriptomic data was constructed from new reference genome data (Kawamoto et al., 2019, Insect biochemistry and molecular biology ) and RNAseq data of multiple tissues in Bombyx mori P50T strain.
+""Metadata of reference transcriptomic data"" is gtf file showing position of each transcript in the new reference genome.
+""Expression data of each transcript in multiple tissue"" is matrix gene expression files showing tpm values of each transcript in multiple tissues.
+""Annotations of each transcript"" is annotation file showing Blast results of each transcript against human and Drosophila protein data set.
+""Predicted amino acid sequences in the reference transcriptomic data"" is a multi fasta file of amino acid sequence predicted with from the reference transcriptomic data.",,,"Grants:""Cross-ministerial Strategic Innovation Promotion Program (SIP)"" from Cabinet Office, Japan.
+""Research Project of the Ministry of Agriculture, Forestry, and Fisheries of Japan"" from the Ministry of Agriculture, Forestry, and Fisheries of Japan","""Reference transcriptome data in silkworm, Bombyx mori"",""Kakeru Yokoi, Takuya Tsubota, Jianqiang Sun, Akiya Jouraku, Hideki Sezutsu, Hidemasa Bono"",""bioRxiv https://doi.org/10.1101/805978"",,
+",,,,,,,,,,,,
+"SKIP Stemcell Database","Stemcell Knowledge & Information Portal","nbdc01524
+",10.18908/lsdba.nbdc01524-000,"""Kenjiro KOSAKI"",""Center for Medical Genetics, School of medicine, Keio University"",200901054219667524,read0163965,,200901100514574211,0
+""Hideyuki OKANO"",""Department of Physiology, School of medicine, Keio University"",200901022622927979,read0000457,0000-0001-7482-5935,200901100553952380,0
+""Tohru MASUI"",""Center for Medical Genetics, School of medicine, Keio University"",200901039812637020,read0003910,,200901100503564699,0
+""Keiichi FUKUDA"",""Department of Cardiology, School of medicine, Keio University"",200901010474611535,read0067549,,200901100316081803,0
+""Norihiro SUZUKI"",""Department of Neurology, School of medicine, Keio University"",200901079095416881,read0161106,0000-0002-0399-6590,200901100347241361,0
+""Masayuki AMAGAI"",""Department of Dermatology, School of medicine, Keio University"",200901056789309535,read0190798,0000-0003-3314-7052,200901100421448062,0
+""Minoru KO"",""Department of Systems Medicine, School of medicine, Keio University"",201601006783159521,7000014239,0000-0002-3530-3015,201550000035401248,0
+","""Human Genes and Diseases""
+","Stemcell
+Article
+","""Homo sapiens"",9606
+",,"SKIP (Stemcell Knowledge & Information Portal) is the portal site aiming to promote the exchange of information and joint research between researchers by aggregating various information of stem cells (iPS cells, iPS cells derived from patients, etc.) to stimulate research on disease and regenerative medicine using stem cells by enhancing social understanding by providing information on stem cells.","You can one-stop search stemcell information from RIKEN BRC, NIBIO, Coriell, ATCC and many laboratories.",,"Human Stem Cells Informatization Project of the Ministry of Health, Labour and Welfare",,"Center for Medical Genetics, School of medicine, Keio University","https://www.skip.med.keio.ac.jp/SKIPSearch/top?lang=en
+",2013-03-29,2016-12-05,http://www.skip.med.keio.ac.jp/en/,,,1,1,,,
+"Society Catalog",,"nbdc00963
+",10.18908/lsdba.nbdc00963-000,"""Shoko Kawamoto"",""The Database Center for Life Science"",,,,,1
+""Kousaku Okubo"",""The Database Center for Life Science"",,,,,0
+",,"Catalog
+",,,"Society Catalog provides information of the academic societies in Japan (organization name, website URL, contact address, etc.).","Users can easily find societies they need by using a category tree or a society website's thumbnail. This database is useful especially when the users are looking for societies they are not familier with.","""MEXT Integrated Database Project"",201410043352900536,25
+",,,"National Bioscience Database Center
+*The original website was terminated.",,2008-06,2011-04,http://biosciencedbc.jp/en/,http://biosciencedbc.jp/adcatalog/download.cgi?lng=en,,1,1,,,
+SPD,"Soybean Proteome Database","nbdc00238
+",10.18908/lsdba.nbdc00238-000,"""Setsuko Komatsu"",""The Institute of Crop Science, NARO(when creating)"",200901069795436691,read0004407,,200901100492668861,1
+""Katsumi Sakata"",""Maebashi Institute of Technology"",200901047661229599,read0007056,,200901100441749590,0
+","""Proteomics Resources""
+""Plant databases - Other plants""
+",,"""Glycine max"",3847
+""Arabidopsis thaliana"",3702
+",,"Soybean Proteome Database stores soybean protein data obtained from gel-based and gel-free proteomic techniques.
+The goal of this database is to provide proteomic information for functional analyses. The majority of the data is focused on soybean, which is an important crop to supply vegetable oil and protein but has high sensitivity in abiotic stresses.
+It was originally constructed using soybean protein data separated by two-dimensional polyacrylamide gel electrophoresis (2D-PAGE, gel-based proteomics database). In 2015, data of mass spectrometry-based label-free quantitative proteomics (gel-free proteomics database) was added.
+Furthermore, the database integrates multiple omics. The whole database is coordinated based on a scheme of differential omics to identify time-variant proteins under flooding stress.",,"""Virtual Lab System - Tsukuba Center for Cooperative Research / Agriculture,Forestry and Fisheries Research Council"",,0
+""Grants-in-Aid for Scientific Research, JP15H04445"",,0
+""Grant - National Agriculture and Food Research Organization"",,0
+",,"""A data resource for plant differential omics."",""Sakata K, Ohyanagi H, Nobori H, Nakamura T, Hashiguchi A, Nanjo Y, Mikami Y, Yunokawa H, Komatsu S"",""J Proteome Res, 8:3539-3548."",0,
+","National Agriculture and Food Research Organization (NARO)","http://proteome.dc.affrc.go.jp/Soybean/
+",2008-03-05,2015-10-05,,,,1,1,,,
+SSBD,"Systems Science of Biological Dynamics database","nbdc01349
+",10.18908/lsdba.nbdc01349-000,"""Yukako Tohsato"",""RIKEN Quantitative Biology Center, Laboratory for Developmental Dynamics"",200901065940544893,read0193848,,,0
+""Kenneth H. L. Ho"",""RIKEN Quantitative Biology Center, Laboratory for Developmental Dynamics"",,,,,0
+""Koji Kyoda"",""RIKEN Quantitative Biology Center, Laboratory for Developmental Dynamics"",,,,,0
+""Shuichi Onami"",""RIKEN Quantitative Biology Center, Laboratory for Developmental Dynamics"",200901032402919970,read0164588,,,1
+","""Other Molecular Biology Databases""
+","""Dynamic database""
+","""Mus musculus"",10090
+Zebrafish,7955
+""Drosophila melanogaster"",7227
+""Caenorhabditis elegans"",6239
+""Escherichia coli"",562
+",,"Systems Science of Biological Dynamics database (SSBD) is an open database for collecting and sharing quantitative data of biological dynamics, which are generated from experimental measurement or computer simulation. SSBD provides a wide variety of quantitative data from single-molecules to cell to organism in different species. A web browser based multidimensional visualization tool is available for viewing quantitative data interactively online.","The data are provided in the Biological Dynamics Markup Language (BDML) format, which is a unified format for representing quantitative data of biological dynamics. The quantitative data are provided through REST API, which allows third parties to develop their applications. In addition, SSBD also provides software tools for data visualization and analysis with time-lapse microscopy images from which the quantitative data were obtained.",,,"""Biological Dynamics Markup Language (BDML): an open format for representing quantitative biological dynamics data"",""Koji Kyoda, Yukako Tohsato, Kenneth H. L. Ho, Shuichi Onami"",""Bioinformatics/April, 2015/Volume 31, Issue 7"",25414366,201502203168812202
+",RIKEN,"http://ssbd.qbic.riken.jp/
+",2013-09-03,2014-11-20,,,"Ensembl, WormBase, PubMed",,1,1,http://ssbd.qbic.riken.jp/SSBD/api/v1/,
+"Taxonomy Icon",,"nbdc00805
+",10.18908/lsdba.nbdc00805-000,"""Shoko Kawamoto"",""Database Center for Life Science"",,,,,0
+""BITS. Co., Ltd."",,,,,,0
+""Kousaku Okubo"",""Database Center for Life Science"",,,,,1
+",,"Images
+",,,"Taxonomy Icon is a collection of icons (illustrations) of biological species that is free to use and distribute. More than 200 icons of various species including Bacteria, Fungi, Protista, Plantae and Animalia are available.","You can use the icons to create documents and websites. Also, you can look up the classification or scientific name of species.","""MEXT Integrated Database Project"",201410043352900536,25
+""MEXT Life Science Database Integration Project"",201304069785935332,
+",,,"National Bioscience Database Center","http://biosciencedbc.jp/taxonomy_icon/taxonomy_icon.cgi?lng=en
+",2008,2011,http://biosciencedbc.jp/en/,http://biosciencedbc.jp/taxonomy_icon/download.cgi,"NCBI Taxonomy",1,1,,,
+"The Rice Growth Monitoring for the Phenotypic Functional Analysis",,"nbdc00945
+",10.18908/lsdba.nbdc00945-000,"""Tomoko SHINOMURA"",""Department of Biosciences, Faculty of Science and Engineering, Teikyo University"",,,,,1
+","""Plant databases - Rice""
+",,"""Oryza sativa"",4530
+",,"Database of phenotype analysis of rice by the system capable of imaging growth from germination to flowering.","Phenotypes of mutants and recombinants are examined and recorded for all life cycles.","""A project of Ministry of Agriculture, Forestry and Fisheries: Development of the rice genome simulator, SY-1108"",,
+",,"""Kinetic measuring method of rice growth in tillering stage using automatic digital imaging system."",""Ishizuka, T., Tanabata, T., Takano, M., Shinomura, T."",""Environ. Control in Biol./2005/43:83-96."",,200902267525274584
+","National Institute of Agrobiological Sciences","http://www.gs.dna.affrc.go.jp/SY-1108/
+",2003-10-01,2004-03-31,http://agrid.dna.affrc.go.jp/cgi-bin/sogo.cgi?class=719&lang=en,,,1,,,,
+TMBETA-GENOME,"Annotation of Beta-Barrel Membrane Proteins in Genomic Sequences","nbdc00713
+",10.18908/lsdba.nbdc00713-000,"""Michael Gromiha"",""Computational Biology Research Center, National Institute of Advanced Industrial Science and Technology"",,,,,0
+","""Protein sequence databases - Protein properties""
+",,"Archaea,2157
+Bacteria,2
+Eukaryota,2759
+",,"TMBETA-GENOME is a database for transmembrane β-barrel proteins in complete genomes. For each genome, calculations with machine learning algorithms and statistical methods have been perfumed and the annotation results are accumulated in the database.","Users can download lists of sequences predicted as β-barrel membrane proteins in FASTA format, which can be used for further analysis. The site also provides prediction tools, such as　""TMBETA-DISC"" and ""TMBETA-SVM"", which can discriminate transmembrane β-barrel proteins by inputting amino acid sequences. (These tools are not available in the LSDB Archive.)",,,"""TMBETA-GENOME: database for annotated beta-barrel membrane proteins in genomic sequences."",""Gromiha MM, Yabuki Y, Kundu S, Suharnan S, Suwa M."",""Nucleic Acids Res. 2007 Jan;35(Database issue):D314-6. Epub 2006 Nov 6."",17088282,201302229920225596
+","National Institute of Advanced Industrial Science and Technology
+*The original website was terminated.",,,,http://medals.jp/elist/detail/70.html,,"NCBI, Ensembl",1,1,,,
+TMFunction,"Functional Database of Membrane Proteins","nbdc00714
+",10.18908/lsdba.nbdc00714-000,"""Michael Gromiha"",""Indian Institute of Technology Madras"",200901004254038672,read0120758,,201550000261827053,1
+","""Structure Databases - Protein structure""
+",,,,"TMFunction is a database of functional residues in alpha-helical and beta-barrel membrane proteins. Each protein is identified with its name and source alongwith the UniProt code. The protein data bank (PDB) codes are also given for available proteins. Different methods and experimental parameters, for example, affinity, dissociation constant, IC50, activity etc. are given in the database. Further, we have provided the numerical experimental value for each residue (or mutant) in a protein. The experimental data are collected from the literature both by searching the journals as well as with the keyword search at PubMed. In addition, complete reference is given with journal citation and PMID number.","TMFunction is cross-linked with the sequence database, UniProt, structural database, PDB, and literature database, PubMed.",,,"""TMFunction: database for functional residues in membrane proteins."",""Gromiha MM, Yabuki Y, Suresh MX, Thangakani AM, Suwa M, Fukui K."",""Nucleic Acids Res. 2009 Jan;37(Database issue)"",18842639,201302207929436812
+","National Institute of Industrial Science and Technology (AIST), Tokyo Waterfront
+*The original website was terminated.","http://tmbeta-genome.cbrc.jp/TMFunction/
+",2007-07,2008-09,,,"UniProt, PDB, PubMed",1,1,,,
+"Togo Picture Gallery",,"NBDC01105
+",,"""Hiromasa Ono"",""Database Center for Life Science"",201201055707420599,hiromasaono,,200901100397831844,1
+",,"ImageCollection
+",,,"Useful images for life science are published without a fee. You can use them as parts of slides or research materials.","Still images provided include model organisms, laboratory instruments, laboratory equipments, schematic drawings, next generation sequencers, cells and microscopes, you can use it for a wide range of materials.
+Since it is licensed under Creative Commons attribution 4.0 International (CC BY 4.0), you can use it as long as you describe the credit.","""MEXT Integrated Database Project Life Science Database Integration Project """"Development of fundamental technologies related to integration of databases"""""",201304036502222259,
+",,"バイオインフォマティクスを使い尽くす秘訣教えます！【第3回】「DBCLSが提供する日本語コンテンツ」,""飯田啓介、小野 浩雅"",""生物工学会誌 第95巻 第1号(2017/1/25)"",,201702270674777848
+","Database Center for Life Science","http://togotv.dbcls.jp/ja/pics.html
+",2011-04-01,,http://dbcls.rois.ac.jp/,,,1,1,,,
+TogoTV,,"NBDC00806
+",,"""Hiromasa Ono"",""Database Center for Life Science"",201201055707420599,hiromasaono,,200901100397831844,0
+",,"""Movie Collection""
+",,,"An archive of tutorial videos expounding how to use biological databases and tools","TogoTV (‘Togo’ means ‘integration’ in Japanese; pronunciation symbol is [to?go?]) that is one of the services in the Database Center for Life Science (DBCLS) in Japan is a portal site of tutorial and lecture videos about bioinformatics resources. Although the original TogoTV site is mostly written in Japanese, there is the English interface for international users. The site contains our original videos. All contents provided by us are distributed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license and also provided on a YouTube channel. We plan to expand our own English contents so as to enable our service to be used all over the world.","""MEXT Integrated Database Project Life Science Database Integration Project """"Development of fundamental technologies related to integration of databases"""""",201304036502222259,
+",,"バイオインフォマティクスを使い尽くす秘訣教えます！【第3回】「DBCLSが提供する日本語コンテンツ」,""飯田啓介、小野 浩雅"",""生物工学会誌 第95巻 第1号(2017/1/25)"",,201702270674777848
+""Tutorial videos of bioinformatics resources: online distribution trial in Japan named TogoTV"",""Shin Kawano,Hiromasa Ono,Toshihisa Takagi,Hidemasa Bono"",""Briefings in Bioinformatics.（2011/7/29）"",21803786,
+","Database Center for Life Science","http://togotv.dbcls.jp/
+",2007-07-20,,http://dbcls.rois.ac.jp/en/,,,1,1,,,
+"TP Atlas","Targeted Proteins Atlas","nbdc01161
+",10.18908/lsdba.nbdc01161-000,"""Sei Miyamoto"",""Fujitsu Co., Ltd."",,,,,0
+""Yasumasa Shigemoto"",""Fujitsu Co., Ltd."",,,,,0
+""Takeshi Konno"",""Fujitsu Co., Ltd."",,,,,0
+""Hisashi Mizutani"",""National Institute of Genetics"",,,,,0
+""Takao Iwayanagi"",""National Institute of Genetics"",,,,,0
+""Hideaki Sugawara"",""National Institute of Genetics"",,,,,1
+","""Metabolic and Signaling Pathways ""
+",,,"Homo sapiens, bacteria (mainly those associated with medicine/ pharmacology) and various model organisms (e.g. Rattus norvegicus, Arabidopsis thaliana, Oryza sativa, Yeast, Ciona intestinalis, Drosophila and Bombyx mori).","TP Atlas is a comprehensive ""Targeted Proteins Research achievements database"" in which you can access a variety of information on the target proteins, their structures, published papers and press releases by navigating the network diagram drawn by Cell Illustrator for each TP Research project. It covers all 35 TP projects ranging from signal transduction networks to enzymatic reaction pathways in the three fields of fundamental biology, medicine/pharmacology and food/environment. (Cell Illustrator is a pathway drawing software developed by Prof. Satoru Miyano and his colleagues at the U. Tokyo)","In this database, the background, highlight and outline of each project in ""Targeted Proteins Research Program"" are summarized. The relationships of proteins or signaling pathways are shown diagrammatically in each project. The diagrams are downloadable. You can also get information of proteins (sequences and structures), genes, and published papers in each project.","""The Targeted Proteins Research Program (2007-2011) promoted by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan.
+Project ID: IPC1 Creation and management of information platform in Targeted Proteins Research Program
+http://www.tanpaku.org/e_pf.php"",,34
+",,"""TP Atlas: integration and dissemination of advances in Targeted Proteins Research Program (TPRP)-structural biology project phase II in Japan."",""Iwayanagi T, Miyamoto S, Konno T, Mizutani H, Hirai T, Shigemoto Y, Gojobori T, Sugawara H."",""J Struct Funct Genomics. 2012 Sep;13(3):145-54."",22644393,
+","National Institute of Genetics, Research Organization of Information and Systems (ROIS)","http://www.tanpaku.org/tpatlas/index_e.html
+",2008-04-01,2012-03-31,http://www.tanpaku.org/e_index.php,,"NCBI (NCBI Gene)
+UniProtKB (Protein Knowledgebase)
+GNP (Genome Network Platform)
+PDB (Protein Data Bank)
+Protein 3000 Structure Gallery
+TP Structure Gallery
+PubMed
+PPI in GNP
+PCI (Protein-Compound Interaction Database)",1,1,,,
+tRNADB-CE,,"nbdc00720
+",10.18908/lsdba.nbdc00720-000,"""Takashi Abe"",""Graduate School of Science and Technology, Niigata University"",,,,,1
+""Toshimichi Ikemura"",""Laboratory of biomolecular information, Nagahama Institute of Bio-Science and Technology"",,,,,0
+""Junichi Sugawara"",""Keio University"",,,,,0
+""Akio Kanai"",""Keio University"",,,,,0
+""Yasuo Ohara"",""Laboratory of biomolecular information, Nagahama Institute of Bio-Science and Technology"",,,,,0
+""Hiroshi Uehara"",""Laboratory of biomolecular information, Nagahama Institute of Bio-Science and Technology"",,,,,0
+""Makoto Kinouchi"",""Yamagata University"",,,,,0
+""Shigehiko Kanaya"",""Nara Institute of Science and Technology"",,,,,0
+""Yuko Yamada"",""Laboratory of biomolecular information, Nagahama Institute of Bio-Science and Technology"",,,,,0
+""Akira Muto"",""Hirosaki University"",,,,,0
+""Hachiro Inokuchi"",""Laboratory of biomolecular information, Nagahama Institute of Bio-Science and Technology"",,,,,0
+","""RNA sequence databases""
+",,,,"This is the most accurate tRNA gene database curated manually by experts in the world. This database is the outcome of the model project to utilize the expertise of elderly researchers and to pass it down to the next generation, which was carried out at Nagahama Institute of Bio-Science and Technology. Specifically, the existing multiple tRNA gene search programs are used for automatic search of tRNA gene from sequenced prokaryote, eukaryote and virus genomes and envrironmental DNA sequences, and then the experts manually check those cases in which different results are generated by program.","- The database was constructed by performing a comprehensive search of tRNA genes on 1625 full-length genomes and 2993 draft genomes of bacteria and Archaea, 151 complete virus genomes, 121 complete chloroplast genomes, 12 complete eukaryote (Plant and Fungi) genomes and about 230 million environmental DNA sequences.
+- Three prediction programs (tRNAScan-SE, Aragorn and tRNA finder) are used together to search tRNA genes. If the prediction results do not match, curation is carried out by experts.
+- The relationship between the codon usage frequency and the number of tRNA genes can be browsed for each species to search the codon recognized by major isoaccepting tRNA (optimal codon) or minor tRNA (nonoptimal codon).","""MEXT Integrated Database Project"",201410043352900536,25
+",,"""tRNADB-CE: tRNA gene database curated manually by experts."",""Abe T, Ikemura T, Ohara Y, Uehara H, Kinouchi M, Kanaya S, Yamada Y, Muto A, Inokuchi H."",""Nucleic Acids Res. 2009 Jan;37(Database issue):D163-8."",18842632,201402252591016980
+""tRNADB-CE 2011: tRNA gene database curated manually by experts."",""Abe T, Ikemura T, Sugahara J, Kanai A, Ohara Y, Uehara H, Kinouchi M, Kanaya S, Yamada Y, Muto A, Inokuchi H."",""Nucleic Acids Res. 2011 Jan;39(Database issue):D210-3."",21071414,201302214355210264
+","Bioinformatics Laboratory, Information Engineering, Niigata University","http://trna.ie.niigata-u.ac.jp/
+",2008-07-01,2012-07-23,http://biosciencedbc.jp/nbdc.cgi?lng=en,http://trna.ie.niigata-u.ac.jp/cgi-bin/trnadb/index.cgi,GENBANK/DDBJ/EBI,1,1,,,
+"Trypanosomes Database",,"nbdc01243
+",10.18908/lsdba.nbdc01243-000,"""Kiyoshi Kita"",""The University of Tokyo"",,,,,0
+""Sei Miyamoto"",""Fujitsu Co., Ltd."",,,,,0
+""Yasumasa Shigemoto"",""Fujitsu Co., Ltd."",,,,,0
+""Takeshi Konno"",""Fujitsu Co., Ltd."",,,,,0
+""Hisashi Mizutani"",""National Institute of Genetics"",,,,,0
+""Takao Iwayanagi"",""National Institute of Genetics"",,,,,0
+""Hideaki Sugawara"",""National Institute of Genetics"",,,,,1
+","""Protein sequence databases""
+",,"Trypanosoma,5690
+""Homo sapiens"",9606
+",,"The Trypanosomes database is a database providing the comprehensive information of proteins that is effective targets for drug development that can control trypanosomiasis. Trypanosome is a parasitic protozoan of the genus Trypanosoma that infects a variety of hosts and causes various diseases, including African sleeping sickness and South American chagas disease, that is, trypanosomiasis. Every year more than 100 thousands of people suffer from trypanosomiasis. It also infects livestock, and more than 100 thousands of cattle have died per year. So far, it has been found effective targets for drug development that can control trypanosomiasis. One of such targets is a group of enzymes that control trypanosome DNA/RNA biosynthetic pathway. Another target is a group of enzymes that control trypanosome oxidation/reduction pathway. Actually, in case of trypanosomes, these enzymes are involved in both reaction pathways, and greatly affect lives of trypanosomes.","This trypanosomes database system provides keyword search and several narrowing retrieval functions for browsing data. In the original database, it also provides the list of papers related to trypanosomes.","""The Targeted Proteins Research Program (2007-2011) promoted by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan.
+Project ID: MPA5 Development of anti-trypanosome drugs targeting nucleotides biosynthesis and red-ox regulatory pathways"",,34
+""The Targeted Proteins Research Program (2007-2011) promoted by the Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan.
+Project ID: IPC1 Creation and management of information platform in Targeted Proteins Research Program"",,34
+",,,"National Institute of Genetics, Research Organization of Information and Systems (ROIS)","http://www.tanpaku.org/tdb/
+",2011,2011,http://www.tanpaku.org/e_index.php,,"NCBI (Nucleotide, Protein, Gene)
+UniProtKB (Protein Knowledgebase)
+Wikipedia
+OMIM (Online Mendelian Inheritance in Man)
+ExPASy ENZYME (Enzyme nomenclature database)
+PDB (Protein Data Bank)
+KEGG PATHWAY Database
+DrugPort",1,1,,,
+"Yeast Interacting Proteins Database",,"nbdc00742
+",10.18908/lsdba.nbdc00742-000,"""Takashi Ito"",""Division of Molecular Genetics, Center for Cancer and Stem Cell Research, Cancer Research Institute, Kanazawa University(when creating)"",,,,,1
+""Mikio Yoshida"",""INTEC Web and Genome Informatics, Inc.(when creating)"",,,,,0
+","""Metabolic and Signaling Pathways - Protein-protein interactions""
+",,"""Saccharomyces cerevisiae"",4932
+",,"Information on interactions and related information obtained by the comprehensive yeast two-hybrid analysis of budding yeast proteins.","Protein-protein interaction data obtained by the comprehensive yeast two-hybrid analysis of budding yeast can be searched with the information useful for prediction of reliability.","""Special Coordination Funds for Promoting Science and Technology - Genome Frontier Project: """"Elucidation of Gene and Molecular Networks Based on Genome Comparison and Systematic Interaction Analysis"""""",,
+""NEDO """"Genome Informatics Technology Development"""" project"",,21
+",,"""Toward a protein-protein interaction map of the budding yeast: A comprehensive system to examine two-hybrid interactions in all possible combinations between the yeast proteins."",""Ito T, Tashiro K, Muta S, Ozawa R, Chiba T, Nishizawa M, Yamamoto K, Kuhara S, Sakaki Y."",""Proc Natl Acad Sci U S A. 2000 Feb 1;97(3):1143-7."",10655498,200902105348630340
+""A comprehensive two-hybrid analysis to explore the yeast protein interactome."",""Ito T, Chiba T, Ozawa R, Yoshida M, Hattori M, Sakaki Y."",""Proc Natl Acad Sci U S A. 2001 Apr 10;98(8):4569-74. Epub 2001 Mar 13."",11283351,200902138566368815
+","Department of Biophysics and Biochemistry, Graduate School of Science, the University of Tokyo","http://itolab.med.kyushu-u.ac.jp/Y2H/
+",2000-12-04,2000-12-04,,http://itolab.med.kyushu-u.ac.jp/Y2H/,,1,,,,
