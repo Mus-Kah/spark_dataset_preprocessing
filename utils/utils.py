@@ -99,3 +99,10 @@ def network_vis_array(data, cols):
     for col in cols:
         values_array.append((get_list(data, col)))
     return values_array
+
+def cols_for_clustering(data):
+    cols=[]
+    for e in data.dtypes:
+        if e[1]=='double':
+            cols.append(e[0])
+    return cols
