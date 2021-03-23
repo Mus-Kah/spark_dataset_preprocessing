@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     sorted_dict = sorted_dict(data)
 
-    print(sorted_cols(sorted_dict))
+    #print(sorted_cols(sorted_dict))
 
     visualize_columns(dict_cols(dict), dict_values(dict), "Columns before sorting")
 
@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
     visualize_combinations(sorted_cols(sorted_dict), sorted_values(sorted_dict), "Columns Combinations")
 
-    filters_set=build_discrete_filters(data,["Year", "Sex", "Race/Ethnicity", "Indicator category"])
+    filters_set=build_discrete_filters(data)
 
     filters_set=add_filter(filters_set, "Value", kmeans_list(column_to_list(data, "Value")))
 
