@@ -5,8 +5,9 @@ Date: 13/11/2020
 """
 
 
-file = "../data/BCHI.csv"
-from utils.utils import read_dataset, spark, sorted_dict, sorted_cols, sorted_values, build_discrete_filters
+file = "../data/dbmeta_en.csv"
+from utils.utils import read_dataset, spark, sorted_dict, sorted_cols, sorted_values, build_discrete_filters, \
+    discrete_columns, cols_for_clustering
 from utils.utils import  data_dict, dict_values, dict_cols, save_data_hdfs, sorted_data, add_filter, column_to_list
 from vis.visualization import visualize_combinations, visualize_columns, hierarchical_visualization
 from clustering.kmeans import kmeans_list
@@ -29,7 +30,10 @@ if __name__ == '__main__':
 
     filters_set=build_discrete_filters(data)
 
-    filters_set=add_filter(filters_set, "Value", kmeans_list(column_to_list(data, "Value")))
+    #filters_set=add_filter(filters_set, "Value", kmeans_list(column_to_list(data, "Value")))
+    for col in cols_for_clustering(data):
+        print(col)
+        filters_set = add_filter(filters_set, col, kmeans_list(column_to_list(data, col)))
 
     hierarchical_visualization(data,sorted_cols(sorted_dict), 20)
 
