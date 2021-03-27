@@ -2,7 +2,8 @@ import plotly.graph_objects as go
 from .visualization_array import visualization_array
 from .random_colors import random_colors
 from igraph import Graph, EdgeSeq
-from utils.utils import sorted_data
+from utils.utils import sorted_data, discrete_columns, cols_for_clustering
+
 
 def visualize_combinations(sorted_cols, sorted_values, title):
     fig = go.Figure(go.Surface(
@@ -26,6 +27,14 @@ def visualize_combinations(sorted_cols, sorted_values, title):
         })
     fig.show()
 
+def visualize_cols_stats(data):
+    cat_cols = discrete_columns(data)
+    cont_cols = cols_for_clustering(data)
+    labels = ["Discrete columns", "Continuous columns"]
+    values= [len(cat_cols), len(cont_cols)]
+    fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
+    fig.show()
+
 def visualize_columns(cols, values, title):
     fig = go.Figure(data=[go.Scatter(
         x=cols, y=values,
@@ -41,7 +50,6 @@ def visualize_columns(cols, values, title):
     )
     fig.show()
 
-import plotly.graph_objects as go
 def hierarchical_visualization(data, sorted_cols, nbr_patterns):
 
 
